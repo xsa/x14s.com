@@ -16,7 +16,7 @@ jobs:
         uses: mhausenblas/mkdocs-deploy-gh-pages@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          CUSTOM_DOMAIN: www.x14s.com
+          #CUSTOM_DOMAIN: www.x14s.com
           #CONFIG_FILE: folder/mkdocs.yml
           EXTRA_PACKAGES: build-base
           #REQUIREMENTS: folder/requirements.txt
