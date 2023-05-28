@@ -2,7 +2,7 @@
 
 ## WHAT DO WE DO?
 
-We provide services, in :flag_be: Belgium | :flag_fr: France | :flag_ch: Switzerland | ... | :globe_with_meridians: *Anywhere*, around field & indoor hockey coaching as well as video and performance analysis (<small>:material-email-plus-outline: [xavier@santolaria.net](mailto:xavier@santolaria.net) for more information or availability</small>).
+We provide services, in :flag_be: Belgium | :flag_fr: France | :flag_ch: Switzerland | ... | :globe_with_meridians: *Anywhere*, around field & indoor hockey coaching as well as video and performance analysis.
 
 ![Field & Indoor Hockey Coaching](./images/coaching-screenshot1.png){ style="width:45%;" }
 ![Video & Performance Analysis](./images/videoanalysis-screenshot1.png){ style="width:45%;" }
