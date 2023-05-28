@@ -91,4 +91,4 @@ Blogs, articles, press coverage of Xavier Santolaria's coaching journey.
 
 ### 2013-01-07: "[LES RED FOXES EN CAMPAGNE](http://okey.lalibre.be/fr/salle-les-red-foxes-en-campagne.html?cmp_id=7&news_id=1093){:target="_blank"}"
 
-<small>source: [okey.lalibre.be](okey.lalibre.be){:target="_blank"} :flag_be:</small>
+<small>source: [okey.lalibre.be](http://okey.lalibre.be){:target="_blank"} :flag_be:</small>
