@@ -10,7 +10,7 @@ We provide services, in :flag_be: Belgium | :flag_fr: France | :flag_ch: Switzer
 ![Field & Indoor Hockey Coaching](./images/coaching-screenshot1.png){ style="width:45%;" }
 ![Video & Performance Analysis](./images/videoanalysis-screenshot1.png){ style="width:45%;" }
 
-**Clubs and National Associations with which we've worked with:**
+**Clubs and National Associations which we've worked with:**
 
 [![USTS Field Hockey](./images/usts-logo.png){ style="width:20%;" }](https://www.ustsfieldhockey.ch){:target="_blank"} 
 [![Servette HC](./images/shc-logo.png){ style="width:20%;" }](http://www.servettehc.ch){:target="_blank"} 
