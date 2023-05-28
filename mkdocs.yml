@@ -29,6 +29,9 @@ extra_css:
   - css/extra.css
 
 extra:
+  analytics:
+    provider: google
+    property: G-L60C5W79LH
   consent:
     title: Cookie consent
     description: >- 
