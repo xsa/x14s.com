@@ -23,7 +23,7 @@ theme:
     code: IBM Plex Mono
   palette:
     primary: black
-    accent: white
+    accent: blue
 
 extra_css:
   - css/extra.css
