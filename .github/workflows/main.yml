@@ -1,4 +1,4 @@
-name: mkdocs-deploy-gh-pages
+name: deploy-x14-com
 on:
   push:
     branches:
