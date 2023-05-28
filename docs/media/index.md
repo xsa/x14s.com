@@ -1,3 +1,6 @@
+---
+title: MEDIA
+---
 # MEDIA
 
 Blogs, articles, press coverage of Xavier Santolaria's coaching journey.
