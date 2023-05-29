@@ -21,11 +21,11 @@ We provide services, in :flag_be: Belgium | :flag_fr: France | :flag_ch: Switzer
 
 ## TEAM
 
-![Xavier Santolaria](./images/xs-selfpass-cap.jpg)
+![Xavier Santolaria](./team/images/xs-selfpass-cap.jpg)
 
 [:fontawesome-brands-twitter:](https://twitter.com/x14santo){:target="_blank"} 
 [:fontawesome-brands-instagram:](https://instagram.com/x14santo){:target="_blank"}
-[**Xavier Santolaria**](https://drive.google.com/file/d/0B_2zPJ_8FKViUXppbUlUOXBKMjA/view?usp=sharing){:target="_blank"} 
+[**Xavier Santolaria**](./team/xs.md)
 
 :material-office-building: Founder **X14S**
 
