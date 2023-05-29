@@ -15,7 +15,7 @@ experiences that I obtained through the years of playing and coaching.
 | Organization | Course/Diploma | Year |
 | :----------: | -------------- | :--: |
 | ![ADEPS](../images/adeps.jpg) | ***Moniteur Sportif Educateur*** (Diploma)<br/>**ADEPS**, Belgium | 2014 |
-| ![ARBH/KBHB](../images/logo-arbh_kbhb.gif){ style="width:20%;" } | ***Moniteur Sportif Initiateur*** (Diploma)<br/>**ADEPS**, Belgium | 2013 |
+| ![ADEPS](../images/adeps.jpg) | ***Moniteur Sportif Initiateur*** (Diploma)<br/>**ADEPS**, Belgium | 2013 |
 | ![ARBH/KBHB](../images/logo-arbh_kbhb.gif){ style="width:20%;" } | ***Level 3 Coach*** (Diploma)<br/>**ARBH/KBHB**, Belgium | 2012 |
 | ![ARBH/KBHB](../images/logo-arbh_kbhb.gif){ style="width:20%;" } | ***Indoor Hockey Clinic (by G. Van Eijk (NL))***<br/>**ARBH/KBHB**, Belgium | 2010 |
 
