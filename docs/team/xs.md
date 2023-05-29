@@ -26,7 +26,7 @@ experiences that I obtained through the years of playing and coaching.
 - 2001-2008: **Royal E. White Star H.C.** Men's 1st Team (indoor)
 - 2002-2007: **Royal E. White Star H.C.** Men's 1st Team
 
-### Coaching
+### Coach
 
 #### USTS :flag_ch:
 
