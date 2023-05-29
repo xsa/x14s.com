@@ -17,6 +17,8 @@ We provide services, in :flag_be: Belgium | :flag_fr: France | :flag_ch: Switzer
 [![ARBH - KBHB](./images/logo-arbh_kbhb.gif){ style="width:20%;" }](https://hockey.be){:target="_blank"} 
 [![R.E. White Star HC](./images/whitehockey-logo.gif){ style="width:20%;" }](https://whitehockey.be){:target="_blank"} 
 
+---
+
 ## TEAM
 
 ![Xavier Santolaria](./images/xs-selfpass-cap.jpg)
@@ -27,9 +29,20 @@ We provide services, in :flag_be: Belgium | :flag_fr: France | :flag_ch: Switzer
 
 :material-office-building: Founder **X14S**
 
+---
+
 ## PARTNERS
 
-[![Ritual Hockey](./images/ritualhockey-logo-w.png)](https://www.ritualhockey.com){:target="_blank"}
+[![Ritual Hockey](./images/partners/ritualhockey-logo-w.png)](https://www.ritualhockey.com){:target="_blank"}
+
+
+<div id="nordvpn">
+    <a href="https://go.nordvpn.net/aff_c?offer_id=15&aff_id=84917&url_id=902"
+        target="_blank"><img src="./images/partners/faster-than-ever-468x60.PNG"
+        title="NordVPN - Stay Safe Online" /></a>
+</div>
+
+---
 
 ## RECOMMENDED READINGS
 
