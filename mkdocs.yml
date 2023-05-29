@@ -8,6 +8,7 @@ copyright: >
 
 theme:
   name: material
+  custom_dir: overrides
   favicon: images/favicon.ico
   icon:
     logo: fontawesome/solid/circle

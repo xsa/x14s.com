@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  {% if page.meta and page.meta.tags %}
+    <meta name="keywords" content="{% for tag in page.meta.tags %}{{ tag }}, {% endfor %}" />
+  {% endif %}
+  <meta name="Language" scheme="iso6391" content="en" />
+  <meta name="robots" content="index, follow" />
+{% endblock %}
