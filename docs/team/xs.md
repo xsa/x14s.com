@@ -148,9 +148,9 @@ experiences that I obtained through the years of playing and coaching.
 
 ## Honours
 
-#### Player
+### Player
 
-##### R. E. White Star H.C. :flag_be:
+#### R. E. White Star H.C. :flag_be:
 
 - Belgium Division 1 (f.k.a. Division 2)
     - 2005
@@ -160,9 +160,9 @@ experiences that I obtained through the years of playing and coaching.
     - Challenge I - Men
         - 2006: 1st :flag_se:
 
-#### Coach
+### Coach
 
-##### Servette H.C. :flag_ch:
+#### Servette H.C. :flag_ch:
 
 - National League A – Men
     - 2018: Vice-Champion
@@ -173,7 +173,7 @@ experiences that I obtained through the years of playing and coaching.
     - Championship II - Men
         - 2017: 1st :flag_gi:
 
-##### Women Belgium Indoor National Team (WBINT) :fox:
+#### Women Belgium Indoor National Team (WBINT) :fox:
 
 - EuroHockey Indoor Nations Championships
     - Championship II - Women
