@@ -7,6 +7,8 @@ title: WHERE SPORT MEETS TECHNOLOGY
 
 We provide services, in :flag_be: Belgium | :flag_fr: France | :flag_ch: Switzerland | ... | :globe_with_meridians: *Anywhere*, around field & indoor hockey coaching as well as video and performance analysis.
 
+> *"Homines dum docent discunt"* (Humans learn when they teach) - Seneca.
+
 ![Field & Indoor Hockey Coaching](./images/coaching-screenshot1.png){ style="width:45%;" }
 ![Video & Performance Analysis](./images/videoanalysis-screenshot1.png){ style="width:45%;" }
 
