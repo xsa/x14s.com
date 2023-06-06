@@ -96,7 +96,7 @@ Blogs, articles, press coverage of Xavier Santolaria's coaching journey.
 
 Interview avec [Philippe Demaret](https://twitter.com/phdemaret) de [Okey.be](http://okey.lalibre.be/) à propos de cette année sans compétition officielle pour les équipes nationales salle. L’article complet est aussi disponible [ici](http://okey.lalibre.be/fr/salle-les-red-foxes-en-campagne.html?cmp_id=7&news_id=1093&vID=3).
 
-??? details "Interview (FR)"
+??? quote "Interview (FR)"
 
     **Okey** : Quel est le programme de cette année ?
 
