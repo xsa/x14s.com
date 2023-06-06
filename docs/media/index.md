@@ -94,4 +94,33 @@ Blogs, articles, press coverage of Xavier Santolaria's coaching journey.
 
 ### 2013-01-07: "[LES RED FOXES EN CAMPAGNE](http://okey.lalibre.be/fr/salle-les-red-foxes-en-campagne.html?cmp_id=7&news_id=1093){:target="_blank"}"
 
+Interview avec [Philippe Demaret](https://twitter.com/phdemaret) de [Okey.be](http://okey.lalibre.be/) à propos de cette année sans compétition officielle pour les équipes nationales salle. L’article complet est aussi disponible [ici](http://okey.lalibre.be/fr/salle-les-red-foxes-en-campagne.html?cmp_id=7&news_id=1093&vID=3).
+
+??? details "Interview (FR)"
+
+    **Okey** : Quel est le programme de cette année ?
+
+    **Xavier Santolaria** : Etant donné qu’il n’y a pas de compétition officielle, cette année est essentiellement consacrée à continuer le travail entamé l’année dernière. Tant sur le plan tactique que technique.
+
+    Une dizaine de sessions sont au calendrier, incluant des matchs amicaux face à Cambrai, Lille et Kampong (HOL). Durant le week-end du nouvel An, nous avons également effectué un mini-stage de deux jours à Evere en terminant par un match contre Cambrai, victoire 6-4 des Red Foxes (score à la mi-temps en faveur de Cambrai 2-4).
+
+    **Okey** : Il n’y a pas de tournoi internationaux cette année, pas facile de se donner un objectif ?
+
+    **Xavier Santolaria** : Effectivement, le championnat d’Europe ne se disputant qu’en 2014, il n’y a pas d’objectif immédiat pour 2013. Ceci n’enlève en rien à l’importance de cette préparation dont le but et de faire encore progresser le groupe sur les plans technique et tactique, ainsi qu’au niveau de sa cohésion.
+
+    Cela nous donne aussi l’opportunité de travailler plus en profondeur. N’oublions pas qu’évoluant en Championship II, des places qualificatives pour la Coupe du Monde 2015 sont aussi en jeu. Nous profitons donc de cette année sans compétions officielles pour mettre en place des bases solides pour le futur.
+
+    **Okey** : Le noyau est restreint ; pas facile de recruter ?
+
+    **Xavier Santolaria** : Le noyau est effectivement similaire, en nombre, à la saison dernière — la base restant la même. Sur les 12 joueuses de Porto, 8 continuent l’aventure et Elizabeth Achten rejoint le staff comme entraîneur des gardiens.
+    Afin de composer un groupe avec des filles jouant au plus haut niveau national, le staff visionne les matches du championnat DH principalement, mais aussi la D1. C’est d’ailleurs comme ça que nous avons appelé plusieurs joueuses à nous rejoindre, après les 2 premières journées de championnat.
+
+    Cette année nous permet aussi d’intégrer de nouvelles joueuses et de bénéficier d’un noyau plus large en vue de 2014, pour les A, mais aussi de 2015 pour l’équipe Juniors. Il est fort possible que d’autres filles nous rejoignent lors de la prochaine préparation en 2013-2014.
+   
+    Malgré le noyau restreint, on voit quand même que de plus en plus de clubs prennent le championnat salle au sérieux et que de plus en plus de filles ont envie de franchir un cap. La sélection des 12 pour Šiauliai risque d’être compliquée l’année prochaine.
+
+    **Okey** : Les salles , un souci ?
+
+    **Xavier Santolaria** : Les salles sont toujours difficiles à avoir en Belgique, que ce soit pour le championnat ou pour les équipes nationales. Mais grâce à un travail de titan de René Dautel et du BIH, nous bénéficions cette saison encore, une fois par semaine, du beau parquet de la salle de l’université de Gand. En plus de ça, le BIH a conclu un accord avec l’Ecole Royale Militaire (ERM), une fois par semaine également, pour les équipes nationales. Salle dont le superbe parquet permet de travailler dans de bonnes conditions.
+
 <small>source: [okey.lalibre.be](http://okey.lalibre.be){:target="_blank"} :flag_be:</small>
