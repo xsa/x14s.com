@@ -53,12 +53,15 @@ extra:
       link: https://fr.wikipedia.org/wiki/Xavier_Santolaria
 
 markdown_extensions:
+  - admonition
   - attr_list
   - def_list
   - md_in_html
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.details
+  - pymdownx.superfences
   - tables
   - toc:
       permalink: true
