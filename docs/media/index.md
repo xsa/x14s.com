@@ -80,6 +80,11 @@ Blogs, articles, press coverage of Xavier Santolaria's coaching journey.
 
 ### 2015-11-30: "[AMBITIONS ET DÉVELOPPEMENT AU SERVETTE HC](http://www.aghga.ch/les-black-girls-remportent-facilement-le-derby-en-salle/){:target="_blank"}"
 
+???+ quote "Ambitions et développement"
+    **Xavier Santolaria** est arrivé il y a deux mois à Genève et a accepté de reprendre le Servette HC pour la saison en salle. Son objectif est de faire grandir l’équipe en vue de la reprise du championnat à l’extérieur : « *Mon travail est de faire progresser mes joueuses et d’utiliser l’expérience accumulée en salle pour être encore meilleurs au retour sur le gazon. Nos ambitions restent modestes puisque nous visons le maintien. Pour y parvenir, nous effectuons un gros travail, car le hockey en salle se différencie beaucoup de celui pratiqué sur gazon* ».
+
+    En ce qui concerne le développement du hockey féminin genevois, l’entraineur belge se montre enthousiaste: « *Il existe d’excellentes infrastructures pour aider à faire progresser les filles. Je trouve que le niveau du championnat est élevé et tout ceci est évidemment positif. Tout est mis en œuvre pour que le hockey genevois avance et que nous puissions alimenter l’équipe nationale* ».
+
 <small>source: [aghga.ch](http://www.aghga.ch){:target="_blank"} :flag_ch:</small>
 
 ---
@@ -96,7 +101,7 @@ Blogs, articles, press coverage of Xavier Santolaria's coaching journey.
 
 Interview avec [Philippe Demaret](https://twitter.com/phdemaret) de [Okey.be](http://okey.lalibre.be/) à propos de cette année sans compétition officielle pour les équipes nationales salle. L’article complet est aussi disponible [ici](http://okey.lalibre.be/fr/salle-les-red-foxes-en-campagne.html?cmp_id=7&news_id=1093&vID=3).
 
-??? quote "Interview (FR)"
+???+ quote "Interview (FR)"
 
     **Okey** : Quel est le programme de cette année ?
 
