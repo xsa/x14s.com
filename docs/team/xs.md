@@ -105,7 +105,7 @@ experiences that I obtained through the years of playing and coaching.
 
 - Tournaments:
     - 2015: [FIH Indoor World Cup (11th)](https://tms.fih.ch/teamstaff/3934) :flag_de:
-    - 2014: EuroHockey Indoor Nations Championship II (2nd – Promoted) :flag_lt:
+    - 2014: [EuroHockey Indoor Nations Championship II (2nd – Promoted)](https://tms.fih.ch/teamstaff/1144) :flag_lt:
     - 2012: EuroHockey Indoor Nations Championship III (1st – Promoted) :flag_pt:
 
 #### Royal E. White Star H.C. :flag_be:
