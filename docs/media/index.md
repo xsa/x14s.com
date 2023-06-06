@@ -15,6 +15,8 @@ Blogs, articles, press coverage of Xavier Santolaria's coaching journey.
 
 ![Servette HC Men's 1 Team](./images/coachlogic-servette-xavier-1.jpg)
 
+[![Coach Logic](../images/coach-logic-logo.png)](https://coach-logic.com/)
+
 ???+ quote " "
     As one of the top teams in Switzerland, Servette HC is a club with high ambitions and an active membership.
 
