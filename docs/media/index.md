@@ -138,6 +138,9 @@ Blogs, articles, press coverage of Xavier Santolaria's coaching journey.
 
 ![Xavier Santolaria and Quentin Noël](./images/Trophy_Siauliai_2014_c_Quentin_Noel_(c)_Pascal%20Motte_cmyk.jpg){ style="width:40%;" }
 
+???+ quote "Wat doet een assistent?"
+    In een discipline als zaalhockey, waar met weinig middelen wordt gewerkt, is de rol van de assistent groot. "*Ik praat veel met de coach over zaken als tactiek en techniek, over de aanpak van spelfases, wat we kunnen verbeteren, enzovoort. Een ander onderdeel van mijn werk is het maken van videoanalyses. Dat betekent heel wat matchen bekijken en bepaalde sequenties in filmpjes monteren. Tijdens matchen op een EK of een WK zit ik in de tribune en heb ik contact met de hoofdcoach. Ik krijg de beelden rechtstreeks op mijn computer en monteer een film die tijdens de rust getoond kan worden. Ik werk in de schaduw, maar dat niet dat je me nooit meer als hoofdcoach aan het werk zal zien.*"
+
 <small>source: [bruzz.be](https://www.bruzz.be){:target="_blank"} :flag_be: :globe_with_meridians:</small>
 
 ---
