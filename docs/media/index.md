@@ -134,11 +134,11 @@ Blogs, articles, press coverage of Xavier Santolaria's coaching journey.
 
 ---
 
-### 2015-01-19: "[XAVIER SANTOLARIA TREKT MET RED FOXES NAAR WK ZAALHOCKEY](http://www.brusselnieuws.be/nl/nieuws/xavier-santolaria-trekt-met-red-foxes-naar-wk-zaalhockey){:target="_blank"}"
+### 2015-01-19: "[XAVIER SANTOLARIA TREKT MET RED FOXES NAAR WK ZAALHOCKEY](https://www.bruzz.be/sport/xavier-santolaria-trekt-met-red-foxes-naar-wk-zaalhockey-2015-01-14){:target="_blank"}"
 
 ![Xavier Santolaria and Quentin Noël](./images/Trophy_Siauliai_2014_c_Quentin_Noel_(c)_Pascal%20Motte_cmyk.jpg){ style="width:40%;" }
 
-<small>source: [brusselnieuws.be](http://www.brusselnieuws.be){:target="_blank"} :flag_be: :globe_with_meridians:</small>
+<small>source: [bruzz.be](https://www.bruzz.be){:target="_blank"} :flag_be: :globe_with_meridians:</small>
 
 ---
 
