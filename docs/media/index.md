@@ -7,6 +7,10 @@ Blogs, articles, press coverage of Xavier Santolaria's coaching journey.
 
 ---
 
+## :calendar: 2019
+
+---
+
 ### 2019-04-11: "[XAVIER’S SEARCH FOR SMARTER PLAYERS](https://www.coach-logic.com/blog/xaviers-search-for-smarter-players/){:target="_blank"}"
 
 ![Servette HC Men's 1 Team](./images/coachlogic-servette-xavier-1.jpg)
@@ -24,6 +28,10 @@ Blogs, articles, press coverage of Xavier Santolaria's coaching journey.
     Coach Logic caught up with the Belgium coach to chat about technology within the sport and his own coaching philosophy.
 
 <small>source: [coach-logic.com](http://www.coach-logic.com/){:target="_blank"} :flag_gb: :globe_with_meridians:</small>
+
+---
+
+## :calendar: 2018
 
 ---
 
@@ -57,6 +65,10 @@ Blogs, articles, press coverage of Xavier Santolaria's coaching journey.
 
 ---
 
+## :calendar: 2017
+
+---
+
 ### :tv: 2017-09-20: "[LÉMAN BLEU SPORT LE MAG : ENTRETIEN AVEC LE NOUVEL ENTRAINEUR DU SERVETTE HOCKEY SUR GAZON, XAVIER SANTOLARIA](http://www.lemanbleu.ch/Scripts/Modules/CustomView/List.aspx?idn=9992&name=ReplaySearch&VideoID=33013&EmissionID=30168){:target="_blank"}"
 
 ![Xavier Santolaria](./images/lbleu-sport-le-mag-20170920-xs.png)
@@ -87,6 +99,10 @@ Blogs, articles, press coverage of Xavier Santolaria's coaching journey.
 
 ---
 
+## :calendar: 2016
+
+---
+
 ### 2016-09-14: "[FHANALYTICS – FIELD HOCKEY ANALYTICS](https://self-pass.com/2016/09/14/fhanalytics-field-hockey-analytics/){:target="_blank"}"
 
 <small>source: [self-pass.com](http://www.self-pass.com/){:target="_blank"} :flag_pt: :globe_with_meridians:</small>
@@ -98,6 +114,10 @@ Blogs, articles, press coverage of Xavier Santolaria's coaching journey.
 ![Xavier Santolaria being interviewed](./images/leman-bleu-sport-20160127.png)
 
 <small>source: [lemanbleu.ch](http://www.lemanbleu.ch){:target="_blank"} :flag_ch: :tv:</small>
+
+---
+
+## :calendar: 2015
 
 ---
 
@@ -117,6 +137,10 @@ Blogs, articles, press coverage of Xavier Santolaria's coaching journey.
 ![Xavier Santolaria and Quentin Noël](./images/Trophy_Siauliai_2014_c_Quentin_Noel_(c)_Pascal%20Motte_cmyk.jpg){ style="width:40%;" }
 
 <small>source: [brusselnieuws.be](http://www.brusselnieuws.be){:target="_blank"} :flag_be: :globe_with_meridians:</small>
+
+---
+
+## :calendar: 2013
 
 ---
 
