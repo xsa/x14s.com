@@ -28,6 +28,8 @@ experiences that I obtained through the years of playing and coaching.
 
 ### Coach
 
+:field_hockey: **FIH** Profile: [https://tms.fih.ch/people/3627](https://tms.fih.ch/people/3627)
+
 #### USTS :flag_ch:
 
 ##### Sep. 2022 to Current
@@ -102,7 +104,7 @@ experiences that I obtained through the years of playing and coaching.
     - Players scouting
 
 - Tournaments:
-    - 2015: FIH Indoor World Cup (11th) :flag_de:
+    - 2015: [FIH Indoor World Cup (11th)](https://tms.fih.ch/teamstaff/3934) :flag_de:
     - 2014: EuroHockey Indoor Nations Championship II (2nd – Promoted) :flag_lt:
     - 2012: EuroHockey Indoor Nations Championship III (1st – Promoted) :flag_pt:
 
