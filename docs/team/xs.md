@@ -134,7 +134,7 @@ experiences that I obtained through the years of playing and coaching.
 
 ##### Dec. 2010 to Feb. 2011
 
-- **Assistant Coach**, Men’s 1st Team (indoor):
+- **Assistant Coach**, Women's 1st Team (indoor):
     - Assisted with game, and training plans
     - Assisted with training sessions
     - Game duties: penalty corners analysis, tactical chat with subbed-out players
