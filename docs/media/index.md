@@ -11,15 +11,18 @@ Blogs, articles, press coverage of Xavier Santolaria's coaching journey.
 
 ![Servette HC Men's 1 Team](./images/coachlogic-servette-xavier-1.jpg)
 
-<small>source: [coach-logic.com](http://www.coach-logic.com/){:target="_blank"} :flag_gb:</small>
+<small>source: [coach-logic.com](http://www.coach-logic.com/){:target="_blank"} :flag_gb: :globe_with_meridians:</small>
 
 ---
 
-### 2018-06-18: "[VICE-CHAMPION, SERVETTE NE VEUT PAS EN RESTER LÀ](https://www.tdg.ch/sports/actu/vicechampion-servette-veut-rester/story/30662106){:target="_blank"}"
+### :newspaper: 2018-06-18: "[VICE-CHAMPION, SERVETTE NE VEUT PAS EN RESTER LÀ](https://www.tdg.ch/sports/actu/vicechampion-servette-veut-rester/story/30662106){:target="_blank"}"
 
 ![Servette HC Men's 1 Team - Silver Medal](./images/lna-silver-shc-2018.jpg)
 
-<small>source: [tdg.ch](http://www.tdg.ch/){:target="_blank"} :flag_ch:</small>
+???+ quote "Vice-champion, Servette ne veut pas en rester là"
+    Si Servette a tardé à tenir son rang, c'est parce que l'équipe a dû apprendre à vivre avec un nouveau coach – **Xavier Santolaria** entraînait jusque-là les filles du club – et sans plusieurs titulaires partis sous d'autres cieux. «*Une période d'adaptation pour faire monter la mayonnaise et favoriser la progression de nos jeunes joueurs*», indique le Belge. L'apport de deux préparateurs physiques et l'expérience retirée d'un tournoi de Coupe d'Europe disputé à Richemont ont permis aux Servettiens de muscler leur jeu et leur confiance. Logiquement, les résultats ont suivi. «*En début, on a peut-être donné l'impression de faire un pas en avant pour deux en arrière. Mais ce printemps, on a fait l'inverse!*»
+
+<small>source: [tdg.ch](http://www.tdg.ch/){:target="_blank"} :flag_ch: :newspaper:</small>
 
 ---
 
@@ -27,23 +30,26 @@ Blogs, articles, press coverage of Xavier Santolaria's coaching journey.
 
 ![Xavier Santolaria](./images/xaviersantolaria_shc_2020.jpg)
 
-<small>source: [servettehc.ch](http://www.servettehc.ch/){:target="_blank"} :flag_ch:</small>
+???+ quote "Xavier Santolaria prolongé jusqu’en 2020"
+    Investi depuis novembre 2015 au Servette HC, où il avait tout d’abord dirigé l’équipe féminine, Xavier Santolaria avait ensuite repris les rênes de la Première équipe masculine depuis juillet 2017. Le travail effectué cette première année a convaincu le club de continuer l’aventure avec l’expérimenté coach belge pour deux saisons supplémentaires. « *Je suis heureux de pouvoir poursuivre, avec le soutien du comité du Servette HC, le projet initié depuis plusieurs années, à savoir l’intégration des jeunes et la constitution d’un noyau solide dans l’équipe fanion, pour lui permettre de continuer à rester compétitive au plus haut niveau suisse ces prochaines années.* »
+
+<small>source: [servettehc.ch](http://www.servettehc.ch/){:target="_blank"} :flag_ch: :globe_with_meridians:</small>
 
 ---
 
-### 2018-05-22: "[LE HC SERVETTE ASSURE LE MINIMUM À RICHEMONT](https://www.tdg.ch/sports/actu/hc-servette-assure-minimum-richemont/story/15508881){:target="_blank"}"
+### :newspaper: 2018-05-22: "[LE HC SERVETTE ASSURE LE MINIMUM À RICHEMONT](https://www.tdg.ch/sports/actu/hc-servette-assure-minimum-richemont/story/15508881){:target="_blank"}"
 
 ![Pascal Zimmermann](./images/180522_tdg_pascalzimmermann.jpg)
 
-<small>source: [tdg.ch](http://www.tdg.ch/){:target="_blank"} :flag_ch:</small>
+<small>source: [tdg.ch](http://www.tdg.ch/){:target="_blank"} :flag_ch: :newspaper:</small>
 
 ---
 
-### 2017-09-20: "[LÉMAN BLEU SPORT LE MAG : ENTRETIEN AVEC LE NOUVEL ENTRAINEUR DU SERVETTE HOCKEY SUR GAZON, XAVIER SANTOLARIA](http://www.lemanbleu.ch/Scripts/Modules/CustomView/List.aspx?idn=9992&name=ReplaySearch&VideoID=33013&EmissionID=30168){:target="_blank"}"
+### :tv: 2017-09-20: "[LÉMAN BLEU SPORT LE MAG : ENTRETIEN AVEC LE NOUVEL ENTRAINEUR DU SERVETTE HOCKEY SUR GAZON, XAVIER SANTOLARIA](http://www.lemanbleu.ch/Scripts/Modules/CustomView/List.aspx?idn=9992&name=ReplaySearch&VideoID=33013&EmissionID=30168){:target="_blank"}"
 
 ![Xavier Santolaria](./images/lbleu-sport-le-mag-20170920-xs.png)
 
-<small>source: [lemanbleu.ch](http://www.lemanbleu.ch){:target="_blank"} :flag_ch:</small>
+<small>source: [lemanbleu.ch](http://www.lemanbleu.ch){:target="_blank"} :flag_ch: :tv:</small>
 
 ---
 
@@ -51,7 +57,12 @@ Blogs, articles, press coverage of Xavier Santolaria's coaching journey.
 
 ![Xavier Santolaria](./images/xs-head-coach-servettehc-men.jpg)
 
-<small>source: [servettehc.ch](http://www.servettehc.ch/){:target="_blank"} :flag_ch:</small>
+???+ quote "Xavier Santolaria nouvel entraîneur principal des Messieurs"
+    **Le Servette HC a le plaisir d’annoncer la signature de Xavier Santolaria (36 ans) en tant que « Head Coach » de la Première équipe masculine.**
+
+    C’est dans un esprit de continuité que s’inscrit le nouvel engagement de Xavier au sein du Servette HC. En effet, le coach belge s’est fait connaître dans le club en dirigeant l’équipe féminine servettienne depuis novembre 2015 et en l’amenant au titre de [**champion suisse de LNB**](http://www.servettehc.ch/les-champ-ionnes/) cette année. Il a également déjà été fortement impliqué avec les Messieurs en officiant en tant qu’adjoint auprès de Pierre-Emmanuel Coppin lors des deux dernières Coupes d’Europe disputées par les Grenat (2016 à Vienne et [**2017 à Gibraltar**](http://www.servettehc.ch/eurohockey-mens-club-champions-challenge-ii-2017/)).
+
+<small>source: [servettehc.ch](http://www.servettehc.ch/){:target="_blank"} :flag_ch: :globe_with_meridians:</small>
 
 ---
 
@@ -60,13 +71,13 @@ Blogs, articles, press coverage of Xavier Santolaria's coaching journey.
 ![Servette HC Men's 1 Team in front of Gibraltar's rock](./images/ehclub-gibraltar-team-rock.jpg){ style="width:40%;" }
 ![Xavier Santolaria](./images/ehclub2017-gibraltar-medal-xs.jpg){ style="width:40%;" }
 
-<small>source: [servettehc.ch](http://www.servettehc.ch/){:target="_blank"} :flag_ch:</small>
+<small>source: [servettehc.ch](http://www.servettehc.ch/){:target="_blank"} :flag_ch: :globe_with_meridians:</small>
 
 ---
 
 ### 2016-09-14: "[FHANALYTICS – FIELD HOCKEY ANALYTICS](https://self-pass.com/2016/09/14/fhanalytics-field-hockey-analytics/){:target="_blank"}"
 
-<small>source: [self-pass.com](http://www.self-pass.com/){:target="_blank"} :flag_pt:</small>
+<small>source: [self-pass.com](http://www.self-pass.com/){:target="_blank"} :flag_pt: :globe_with_meridians:</small>
 
 ---
 
@@ -74,7 +85,7 @@ Blogs, articles, press coverage of Xavier Santolaria's coaching journey.
 
 ![Xavier Santolaria being interviewed](./images/leman-bleu-sport-20160127.png)
 
-<small>source: [lemanbleu.ch](http://www.lemanbleu.ch){:target="_blank"} :flag_ch:</small>
+<small>source: [lemanbleu.ch](http://www.lemanbleu.ch){:target="_blank"} :flag_ch: :tv:</small>
 
 ---
 
@@ -85,7 +96,7 @@ Blogs, articles, press coverage of Xavier Santolaria's coaching journey.
 
     En ce qui concerne le développement du hockey féminin genevois, l’entraineur belge se montre enthousiaste: « *Il existe d’excellentes infrastructures pour aider à faire progresser les filles. Je trouve que le niveau du championnat est élevé et tout ceci est évidemment positif. Tout est mis en œuvre pour que le hockey genevois avance et que nous puissions alimenter l’équipe nationale* ».
 
-<small>source: [aghga.ch](http://www.aghga.ch){:target="_blank"} :flag_ch:</small>
+<small>source: [aghga.ch](http://www.aghga.ch){:target="_blank"} :flag_ch: :globe_with_meridians:</small>
 
 ---
 
@@ -93,7 +104,7 @@ Blogs, articles, press coverage of Xavier Santolaria's coaching journey.
 
 ![Xavier Santolaria and Quentin Noël](./images/Trophy_Siauliai_2014_c_Quentin_Noel_(c)_Pascal%20Motte_cmyk.jpg){ style="width:40%;" }
 
-<small>source: [brusselnieuws.be](http://www.brusselnieuws.be){:target="_blank"} :flag_be:</small>
+<small>source: [brusselnieuws.be](http://www.brusselnieuws.be){:target="_blank"} :flag_be: :globe_with_meridians:</small>
 
 ---
 
@@ -128,4 +139,4 @@ Interview avec [Philippe Demaret](https://twitter.com/phdemaret) de [Okey.be](ht
 
     **Xavier Santolaria** : Les salles sont toujours difficiles à avoir en Belgique, que ce soit pour le championnat ou pour les équipes nationales. Mais grâce à un travail de titan de René Dautel et du BIH, nous bénéficions cette saison encore, une fois par semaine, du beau parquet de la salle de l’université de Gand. En plus de ça, le BIH a conclu un accord avec l’Ecole Royale Militaire (ERM), une fois par semaine également, pour les équipes nationales. Salle dont le superbe parquet permet de travailler dans de bonnes conditions.
 
-<small>source: [okey.lalibre.be](http://okey.lalibre.be){:target="_blank"} :flag_be:</small>
+<small>source: [okey.lalibre.be](http://okey.lalibre.be){:target="_blank"} :flag_be: :globe_with_meridians:</small>
