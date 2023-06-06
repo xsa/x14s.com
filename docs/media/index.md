@@ -11,6 +11,18 @@ Blogs, articles, press coverage of Xavier Santolaria's coaching journey.
 
 ![Servette HC Men's 1 Team](./images/coachlogic-servette-xavier-1.jpg)
 
+???+ quote " "
+    As one of the top teams in Switzerland, Servette HC is a club with high ambitions and an active membership.
+
+    And there is none more active or energetic than coach **Xavier Santolaria**.
+
+    Xavier has huge experience within hockey. He played and captained Belgium club team Royal Evere White Star Hockey and then became the assistant coach to the Belgium Women’s national indoor squad.
+
+???+ quote " "
+    Having moved to Switzerland for professional reasons back in November 2015, he took the Servette HC Women's team Head Coach position until the end of the 2016-2017 season. He was then offered the Head Coach position of the Men's team in the summer of 2017. Still occupying this role, he is using his vast and varied experience to good effect with the current squad.
+
+    Coach Logic caught up with the Belgium coach to chat about technology within the sport and his own coaching philosophy.
+
 <small>source: [coach-logic.com](http://www.coach-logic.com/){:target="_blank"} :flag_gb: :globe_with_meridians:</small>
 
 ---
