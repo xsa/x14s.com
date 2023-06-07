@@ -30,7 +30,7 @@ experiences that I obtained through the years of playing and coaching.
 
 :field_hockey: **FIH** Profile: [https://tms.fih.ch/people/3627](https://tms.fih.ch/people/3627)
 
-#### USTS :flag_ch:
+#### :purple_circle: :green_circle: USTS :flag_ch:
 
 ##### Sep. 2022 to Current
 
@@ -47,7 +47,7 @@ experiences that I obtained through the years of playing and coaching.
     - In charge of training sessions
     - Youth development
 
-#### Servette HC :flag_ch:
+#### :red_circle: :white_circle: Servette HC :flag_ch:
 
 ##### Jul. 2017 to Jun. 2020
 
@@ -84,7 +84,7 @@ experiences that I obtained through the years of playing and coaching.
 
 > The BeGold District hockey program is the starting point for hockey players in Belgium who aspire to play for the Red Lions and Red Panthers at worl level tournaments such as the Olympic Games.
 
-#### Royal E. White Star H.C. :flag_be:
+#### :red_circle: :white_circle: Royal E. White Star H.C. :flag_be:
 
 ##### Dec. 2013 to May 2015
 
@@ -108,7 +108,7 @@ experiences that I obtained through the years of playing and coaching.
     - 2014: [EuroHockey Indoor Nations Championship II (2nd – Promoted)](https://tms.fih.ch/teamstaff/1144) :flag_lt:
     - 2012: EuroHockey Indoor Nations Championship III (1st – Promoted) :flag_pt:
 
-#### Royal E. White Star H.C. :flag_be:
+#### :red_circle: :white_circle: Royal E. White Star H.C. :flag_be:
 
 ##### Dec. 2012 to Feb. 2014
 
@@ -130,7 +130,7 @@ experiences that I obtained through the years of playing and coaching.
     - Assisted with training sessions
     - Game duties: penalty corners analysis, tactical chat with subbed-out players
 
-#### Royal Uccle Sport T.H.C. :flag_be:
+#### :blue_circle: :white_circle: Royal Uccle Sport T.H.C. :flag_be:
 
 ##### Dec. 2010 to Feb. 2011
 
@@ -139,7 +139,7 @@ experiences that I obtained through the years of playing and coaching.
     - Assisted with training sessions
     - Game duties: penalty corners analysis, tactical chat with subbed-out players
 
-#### Royal E. White Star H.C. :flag_be:
+#### :red_circle: :white_circle: Royal E. White Star H.C. :flag_be:
 
 ##### Aug. 2004 to May 2005
 
@@ -152,7 +152,7 @@ experiences that I obtained through the years of playing and coaching.
 
 ### Player
 
-#### R. E. White Star H.C. :flag_be:
+#### :red_circle: :white_circle: Royal E. White Star H.C. :flag_be:
 
 - Belgium Division 1 (f.k.a. Division 2)
     - 2005
@@ -164,7 +164,7 @@ experiences that I obtained through the years of playing and coaching.
 
 ### Coach
 
-#### Servette H.C. :flag_ch:
+#### :red_circle: :white_circle: Servette H.C. :flag_ch:
 
 - National League A – Men
     - 2018: Vice-Champion
@@ -175,7 +175,7 @@ experiences that I obtained through the years of playing and coaching.
     - Championship II - Men
         - 2017: 1st :flag_gi:
 
-#### Women Belgium Indoor National Team (WBINT) :fox:
+#### :black_circle: :yellow_circle: :red_circle: Women Belgium Indoor National Team (WBINT) :fox:
 
 - EuroHockey Indoor Nations Championships
     - Championship II - Women
