@@ -3,7 +3,7 @@ title: WHERE SPORT MEETS TECHNOLOGY
 ---
 # WHERE SPORT MEETS TECHNOLOGY
 
-## WHAT DO WE DO?
+## What Do We Do?
 
 We provide services, in :flag_be: Belgium | :flag_fr: France | :flag_ch: Switzerland | ... | :globe_with_meridians: *Anywhere*, around field & indoor hockey coaching as well as video and performance analysis.
 
@@ -25,7 +25,7 @@ We provide services, in :flag_be: Belgium | :flag_fr: France | :flag_ch: Switzer
 
 ---
 
-## TEAM
+## The TEAM
 
 <div style="text-align:center" markdown>
 ![Xavier Santolaria](./team/images/xs-selfpass-cap.jpg)
@@ -40,7 +40,7 @@ We provide services, in :flag_be: Belgium | :flag_fr: France | :flag_ch: Switzer
 
 ---
 
-## PARTNERS
+## Partners
 
 <div class="partners">
     <div id="ritual">
@@ -63,11 +63,13 @@ Interested in becoming a **X14S** partner? [Contact Us :fontawesome-solid-paper-
 
 ---
 
-## RECOMMENDED READINGS
+???+ abstract ":books: Recommended Readings"
+    A non-exhaustive list of books and articles that helped me to improve as trainer, coach, and human being, enjoy!
 
-A non-exhaustive list of books and articles that helped me to improve as trainer, coach, and human being, enjoy!
+    - [SMALL-SIDED GAMES: How to effectively train your players in variable and complex environments](https://amzn.to/3oPUBkH){:target="_blank"}, by Andreu Enrich
+    - [The Champion’s Mind: How Great Athletes Think, Train, and Thrive](https://amzn.to/45QHwbn){:target="_blank"}, by Jim Afremow
+    - [7 Keys To Being A Great Coach: Become Your Best and They Will Too](https://amzn.to/3OWJEZa){:target="_blank"}, by Allistair McCaw
+    - [The Manager: Inside the Minds of Football’s Leaders](https://amzn.to/3NkRQBp){:target="_blank"}, by Mike Carson
 
-- [SMALL-SIDED GAMES: How to effectively train your players in variable and complex environments](https://amzn.to/44h4VCc){:target="_blank"} , by Andreu Enrich
-- [The Champion’s Mind: How Great Athletes Think, Train, and Thrive](https://amzn.to/40KSifC){:target="_blank"} , by Jim Afremow
-- [7 Keys To Being A Great Coach: Become Your Best and They Will Too](https://amzn.to/3Vipuda){:target="_blank"} , by Allistair McCaw
-- [The Manager: Inside the Minds of Football’s Leaders](https://amzn.to/3LEDiM0){:target="_blank"} , by Mike Carson
+???+ abstract ":tools: Recommended Recovery Options"
+    - [Compex Fixx Mini Ultra Compact Massage Gun](https://amzn.to/3NgHS3Q){:target="_blank"}: perfect for the recovery, and sore muscles!
