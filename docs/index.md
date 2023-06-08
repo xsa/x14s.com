@@ -72,4 +72,5 @@ Interested in becoming a **X14S** partner? [Contact Us :fontawesome-solid-paper-
     - [The Manager: Inside the Minds of Football’s Leaders](https://amzn.to/3NkRQBp){:target="_blank"}, by Mike Carson
 
 ???+ abstract ":tools: Recommended Recovery Options"
-    - [Compex Fixx Mini Ultra Compact Massage Gun](https://amzn.to/3NgHS3Q){:target="_blank"}: perfect for the recovery, and sore muscles!
+    - [**Compex** Fixx Mini Ultra Compact Massage Gun](https://amzn.to/3NgHS3Q){:target="_blank"}: perfect for the recovery, and sore muscles!
+    - [**TriggerPoint** Foam Roller](https://amzn.to/3qtoSGh){:target="_blank"}: perfect for the recovery, and sore muscles!
