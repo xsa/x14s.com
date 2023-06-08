@@ -24,8 +24,23 @@ theme:
     text: IBM Plex Sans
     code: IBM Plex Mono
   palette:
-    primary: black
-    accent: blue
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: blue
+      toggle:
+        icon: material/lightbulb
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: blue
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to light mode
 
 extra_css:
   - css/extra.css
