@@ -63,7 +63,7 @@ Interested in becoming a **X14S** partner? [Contact Us :fontawesome-solid-paper-
 
 ---
 
-???+ abstract "Recommended Training Gear"
+???+ abstract ":field_hockey: Recommended Training Gear"
     Training gear that we've been using for our training sessions, whatever the age group or level, that we're recommending you.
 
     - [Crazy Catch Wild Child Rebound Net](https://amzn.to/43uc5lG){:target="_blank"}: random, unpredictable, rebounds. Perfect for goalies and field players reflex development.
