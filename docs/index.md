@@ -42,19 +42,14 @@ We provide services, in :flag_be: Belgium | :flag_fr: France | :flag_ch: Switzer
 
 ## Partners
 
-<div class="partners">
-    <div id="ritual">
-        <a href="https://www.ritualhockey.com" target="_blank"><img
-            src="./images/partners/ritualhockey-logo-w.png" title="Ritual Hockey" /></a>
-    </div>
-    <div id="scorrd">
-        <a href="https://scorrd.com"
-            target="_blank"><img src="./images/partners/scorrd-logo.svg" title="Scorrd - Where Hockey Connects" /></a>
-    </div>
-    <div id="nordvpn">
-        <a href="https://go.nordvpn.net/aff_c?offer_id=15&aff_id=84917&url_id=902"
-            target="_blank"><img src="./images/partners/faster-than-ever-468x60.PNG" title="NordVPN - Stay Safe Online" /></a>
-    </div>
+<div style="text-align:center" markdown>
+[![Ritual Hockey](./images/partners/ritualhockey-logo-w.png)](https://www.ritualhockey.com){:target="_blank"}
+
+[![Scorrd - Where Hockey Connects](./images/partners/scorrd-logo.svg)](https://www.scorrd.com){:target="_blank"}
+
+[![Hockey Passion - Your Development Partner](./images/partners/hockey-passion.jpg)](https://hockey-passion.be){:target="_blank"}
+
+[![NordVPN - Stay Safe Online](./images/partners/faster-than-ever-468x60.PNG)](https://go.nordvpn.net/aff_c?offer_id=15&aff_id=84917&url_id=902){:target="_blank"}
 </div>
 
 <div style="text-align:center" markdown>
