@@ -63,6 +63,12 @@ Interested in becoming a **X14S** partner? [Contact Us :fontawesome-solid-paper-
 
 ---
 
+???+ abstract "Recommended Training Gear"
+    Training gear that we've been using for our training sessions, whatever the age group or level, that we're recommending you.
+
+    - [Crazy Catch Wild Child Rebound Net](https://amzn.to/43uc5lG){:target="_blank"}: random, unpredictable, rebounds. Perfect for goalies and field players reflex development.
+    - [Katchet Training Aid ramp](https://amzn.to/43KU0iY){:target="_blank"}: perfect to work on deflections, passing & receiving skills, and goalie training.
+
 ???+ abstract ":books: Recommended Readings"
     A non-exhaustive list of books and articles that helped me to improve as trainer, coach, and human being, enjoy!
 
@@ -73,6 +79,6 @@ Interested in becoming a **X14S** partner? [Contact Us :fontawesome-solid-paper-
 
 ???+ abstract ":tools: Recommended Recovery Options"
     Tools and products that we've been personally using, and thus recommending for your recovery.
-    
+
     - [**Compex** Fixx Mini Ultra Compact Massage Gun](https://amzn.to/3NgHS3Q){:target="_blank"}: perfect for the recovery, and sore muscles!
     - [**TriggerPoint** Foam Roller](https://amzn.to/3qtoSGh){:target="_blank"}: perfect for the recovery, and sore muscles!
