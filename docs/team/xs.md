@@ -35,7 +35,7 @@ experiences that I obtained through the years of playing and coaching.
 ##### Sep. 2022 to Current
 
 <figure markdown>
-  ![USTS U15 2022/2023](./images/usts-u15-20230613.jpg)
+  ![USTS U15 2022/2023](./images/usts-u15-20230613.jpg){ loading=lazy }
   <figcaption>USTS U15 - Season 2022/2023; Photo &copy; Yann Crausaz</figcaption>
 </figure>
 
@@ -55,6 +55,11 @@ experiences that I obtained through the years of playing and coaching.
 #### :red_circle: :white_circle: Servette HC :flag_ch:
 
 ##### Jul. 2017 to Jun. 2020
+
+<figure markdown>
+  ![Servette HC Men's 1 - Season 2019/2020](./images/servettehc-m1-oct2019.jpg){ loading=lazy }
+  <figcaption>Servette HC Men's 1 - Season 2019/2020</figcaption>
+</figure>
 
 - **Head Coach**, Men's 1st Team:
     - In charge of game, and training plans
