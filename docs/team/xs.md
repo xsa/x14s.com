@@ -34,7 +34,10 @@ experiences that I obtained through the years of playing and coaching.
 
 ##### Sep. 2022 to Current
 
-![USTS U15 2022/2023](./images/usts-u15-20230613.jpg){ style="width:50%;" }
+<figure markdown>
+  ![USTS U15 2022/2023](./images/usts-u15-20230613.jpg)
+  <figcaption>USTS U15 - Season 2022/2023; Photo &copy; Yann Crausaz</figcaption>
+</figure>
 
 - **Head Coach**, U15 Junior Team:
     - In charge of game, and training plans
