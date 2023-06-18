@@ -118,6 +118,11 @@ experiences that I obtained through the years of playing and coaching.
     - 2014: [EuroHockey Indoor Nations Championship II (2nd – Promoted)](https://tms.fih.ch/teamstaff/1144) :flag_lt:
     - 2012: EuroHockey Indoor Nations Championship III (1st – Promoted) :flag_pt:
 
+<figure markdown>
+  ![Gold Medal in Gondomar (Portugal) in 2012](./images/WBINT_GOLD_2012.jpg){ loading=lazy }
+  <figcaption>Women Belgium Indoor National Team - Gold Medal, 2012.</figcaption>
+</figure>
+
 #### :red_circle: :white_circle: Royal E. White Star H.C. :flag_be:
 
 ##### Dec. 2012 to Feb. 2014
