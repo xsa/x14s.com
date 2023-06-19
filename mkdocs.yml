@@ -1,4 +1,4 @@
-site_name: X14S
+site_name: WHERE SPORT MEETS TECHNOLOGY
 site_author: X14S s.c.s.
 site_description: Fieldhockey coaching as well as video and performance analysis
 
@@ -10,8 +10,7 @@ theme:
   name: material
   custom_dir: overrides
   favicon: images/favicon.ico
-  icon:
-    logo: fontawesome/solid/circle
+  logo: images/x14s-logo-1.png
   features:
     - navigation.expand
     - navigation.indexes

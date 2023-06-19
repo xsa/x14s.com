@@ -1,9 +1,6 @@
 ---
-title: WHERE SPORT MEETS TECHNOLOGY
+title: WHAT DO WE DO?
 ---
-# WHERE SPORT MEETS TECHNOLOGY
-
-## What Do We Do?
 
 We provide services, in :flag_be: Belgium | :flag_fr: France | :flag_ch: Switzerland | ... | :globe_with_meridians: *Anywhere*, around field & indoor hockey coaching as well as video and performance analysis.
 
