@@ -26,8 +26,7 @@ theme:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: black
-      accent: blue
+      accent: cyan
       toggle:
         icon: material/lightbulb
         name: Switch to dark mode
@@ -35,8 +34,7 @@ theme:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: black
-      accent: blue
+      accent: cyan
       toggle:
         icon: material/lightbulb-outline
         name: Switch to light mode
