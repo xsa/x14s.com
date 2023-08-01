@@ -58,19 +58,19 @@ Interested in becoming a **X14S** partner? [Contact Us :fontawesome-solid-paper-
 ???+ quote ":field_hockey: Recommended Training Gear"
     Training gear that we've been using for our training sessions, whatever the age group or level, that we're recommending you.
 
-    - [**Crazy Catch** Wild Child Rebound Net](https://amzn.to/43uc5lG){:target="_blank"}: random, unpredictable, rebounds. Perfect for goalies and field players reflex development.
-    - [Katchet Training Aid ramp](https://amzn.to/43KU0iY){:target="_blank"}: perfect to work on deflections, passing & receiving skills, and goalie training.
+    - [**Crazy Catch** Wild Child Rebound Net](https://amzn.to/47gV6Wn){:target="_blank"}: random, unpredictable, rebounds. Perfect for goalies and field players reflex development.
+    - [Katchet Training Aid ramp](https://amzn.to/3rO1FPP){:target="_blank"}: perfect to work on deflections, passing & receiving skills, and goalie training.
 
 ???+ quote ":books: Recommended Readings"
     A non-exhaustive list of books and articles that helped me to improve as trainer, coach, and human being, enjoy!
 
-    - [SMALL-SIDED GAMES: How to effectively train your players in variable and complex environments](https://amzn.to/3oPUBkH){:target="_blank"}, by Andreu Enrich
-    - [The Champion’s Mind: How Great Athletes Think, Train, and Thrive](https://amzn.to/45QHwbn){:target="_blank"}, by Jim Afremow
-    - [7 Keys To Being A Great Coach: Become Your Best and They Will Too](https://amzn.to/3OWJEZa){:target="_blank"}, by Allistair McCaw
-    - [The Manager: Inside the Minds of Football’s Leaders](https://amzn.to/3NkRQBp){:target="_blank"}, by Mike Carson
+    - [SMALL-SIDED GAMES: How to effectively train your players in variable and complex environments](https://amzn.to/3qc7eqU){:target="_blank"}, by Andreu Enrich
+    - [The Champion’s Mind: How Great Athletes Think, Train, and Thrive](https://amzn.to/45s8XHJ){:target="_blank"}, by Jim Afremow
+    - [7 Keys To Being A Great Coach: Become Your Best and They Will Too](https://amzn.to/44NxV4l){:target="_blank"}, by Allistair McCaw
+    - [The Manager: Inside the Minds of Football’s Leaders](https://amzn.to/4779ksN){:target="_blank"}, by Mike Carson
 
 ???+ quote ":tools: Recommended Recovery Options"
     Tools and products that we've been personally using, and thus recommending for your recovery.
 
-    - [**Compex** Fixx Mini Ultra Compact Massage Gun](https://amzn.to/3NgHS3Q){:target="_blank"}: perfect for the recovery, and sore muscles!
-    - [**TriggerPoint** Foam Roller](https://amzn.to/3qtoSGh){:target="_blank"}: perfect for the recovery, and sore muscles!
+    - [**Compex** Fixx Mini Ultra Compact Massage Gun](https://amzn.to/3qc7iHa){:target="_blank"}: perfect for the recovery, and sore muscles!
+    - [**TriggerPoint** Foam Roller](https://amzn.to/3YeXFE6){:target="_blank"}: perfect for the recovery, and sore muscles!
