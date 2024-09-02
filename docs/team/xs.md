@@ -96,7 +96,7 @@ experiences that I obtained through the years of playing and coaching.
     - Assisted with training sessions and video/performance analysis
 
 - Tournaments:
-    - 2017 EuroHockey Club Challenge II (1st – Promoted) :flag_gi: :1st_place_medal:
+    - 2017 EuroHockey Club Challenge II (1st – Promoted) :flag_gi: 🥇
     - 2016 EuroHockey Club Challenge I (7th – Relegated) :flag_at:
 
 #### :flag_be: Belgian Hockey Federation
@@ -184,12 +184,12 @@ experiences that I obtained through the years of playing and coaching.
 #### :red_circle: :white_circle: Royal E. White Star H.C. :flag_be:
 
 - Belgium Division 1 (f.k.a. Division 2)
-    - 2005 :1st_place_medal:
+    - 2005 🥇
 - Belgium Indoor
-    - 2005, 2006 :1st_place_medal:
+    - 2005, 2006 🥇
 - EuroHockey Indoor Club Champion Cup
     - Challenge I - Men
-        - 2006: 1st :flag_se: :1st_place_medal:
+        - 2006: 1st :flag_se: 🥇
 
 ### Coach
 
@@ -201,22 +201,22 @@ experiences that I obtained through the years of playing and coaching.
 </figure>
 
 - National League A – Men
-    - 2018: Vice-Champion :2nd_place_medal:
+    - 2018: Vice-Champion 🥈
  
 - National League B – Women
-    - 2017: Champion :1st_place_medal:
+    - 2017: Champion 🥇
 
 - EuroHockey Club Championships
     - Championship II - Men
-        - 2017: 1st :flag_gi: :1st_place_medal:
+        - 2017: 1st :flag_gi: 🥇
 
 #### :black_circle: :yellow_circle: :red_circle: Women Belgium Indoor National Team (WBINT) :fox:
 
 - EuroHockey Indoor Nations Championships
     - Championship II - Women
-        - 2014: 2nd :flag_lt: :2nd_place_medal:
+        - 2014: 2nd :flag_lt: 🥈
     - Championship III - Women
-        - 2012: 1st :flag_pt: :1st_place_medal:
+        - 2012: 1st :flag_pt: 🥇
 
 ## Languages
 
