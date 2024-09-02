@@ -129,8 +129,8 @@ experiences that I obtained through the years of playing and coaching.
 
 - Tournaments:
     - 2015: [FIH Indoor World Cup (11th)](https://tms.fih.ch/teamstaff/3934) :flag_de:
-    - 2014: [EuroHockey Indoor Nations Championship II (2nd – Promoted)](https://tms.fih.ch/teamstaff/1144) :flag_lt:
-    - 2012: EuroHockey Indoor Nations Championship III (1st – Promoted) :flag_pt:
+    - 2014: [EuroHockey Indoor Nations Championship II (2nd – Promoted)](https://tms.fih.ch/teamstaff/1144) :flag_lt: 🥈
+    - 2012: EuroHockey Indoor Nations Championship III (1st – Promoted) :flag_pt: 🥇
 
 <figure markdown>
   ![Gold Medal in Gondomar (Portugal) in 2012](./images/WBINT_GOLD_2012.jpg){ loading=lazy }
@@ -189,7 +189,7 @@ experiences that I obtained through the years of playing and coaching.
     - 2005, 2006 🥇
 - EuroHockey Indoor Club Champion Cup
     - Challenge I - Men
-        - 2006: 1st :flag_se: 🥇
+        - 2006: :flag_se: 1st 🥇
 
 ### Coach
 
@@ -208,15 +208,15 @@ experiences that I obtained through the years of playing and coaching.
 
 - EuroHockey Club Championships
     - Championship II - Men
-        - 2017: 1st :flag_gi: 🥇
+        - 2017: :flag_gi: 1st 🥇
 
 #### :black_circle: :yellow_circle: :red_circle: Women Belgium Indoor National Team (WBINT) :fox:
 
 - EuroHockey Indoor Nations Championships
     - Championship II - Women
-        - 2014: 2nd :flag_lt: 🥈
+        - 2014: :flag_lt: 2nd 🥈
     - Championship III - Women
-        - 2012: 1st :flag_pt: 🥇
+        - 2012: :flag_pt: 1st 🥇
 
 ## Languages
 
