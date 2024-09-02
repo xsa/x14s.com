@@ -197,6 +197,12 @@ experiences that I obtained through the years of playing and coaching.
 
 - National League A – Men
     - 2018: Vice-Champion
+ 
+<figure markdown>
+  ![Servette HC Men's 1 - Vice-Champion 2017/2018](./images/lna-silver-shc-2018.jpg){ loading=lazy }
+  <figcaption>Servette HC Men's 1 - Vice-Champion 2017/2018</figcaption>
+</figure>
+
 - National League B – Women
     - 2017: Champion
 
