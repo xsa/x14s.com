@@ -23,8 +23,9 @@ experiences that I obtained through the years of playing and coaching.
 
 ### Player
 
-- 2001-2008: **Royal E. White Star H.C.** Men's 1st Team (indoor)
-- 2002-2007: **Royal E. White Star H.C.** Men's 1st Team
+- 2023-current: **USTS Field Hockey** :flag_ch:
+- 2001-2008: **Royal E. White Star H.C.** Men's 1st Team (indoor) :flag_be:
+- 2002-2007: **Royal E. White Star H.C.** Men's 1st Team :flag_be:
 
 ### Coach
 
