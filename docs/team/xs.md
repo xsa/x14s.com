@@ -30,7 +30,7 @@ experiences that I obtained through the years of playing and coaching.
 
 :field_hockey: **FIH** Profile: [https://tms.fih.ch/people/3627](https://tms.fih.ch/people/3627)
 
-#### :red_circle: :white_circle: Swiss Hockey Federation :flag_ch:
+#### :flag_ch: Swiss Hockey Federation
 
 ##### Aug. 2024 to Current
 
@@ -99,7 +99,7 @@ experiences that I obtained through the years of playing and coaching.
     - 2017 EuroHockey Club Challenge II (1st – Promoted) :flag_gi:
     - 2016 EuroHockey Club Challenge I (7th – Relegated) :flag_at:
 
-#### Belgian Hockey Federation :flag_be:
+#### :flag_be: Belgian Hockey Federation
 
 ##### Oct. 2015 to May 2016
 
@@ -116,7 +116,7 @@ experiences that I obtained through the years of playing and coaching.
     - In charge of post-match coding to produce statistical information using SportCode Pro, iCoda, and self-developed FHAnalytics online platform
     - In charge of maintenance of videos and other databases
 
-#### Belgian Hockey Federation :flag_be:
+#### :flag_be: Belgian Hockey Federation
 
 ##### Sep. 2011 to Feb. 2015
 
