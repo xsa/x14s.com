@@ -30,6 +30,13 @@ experiences that I obtained through the years of playing and coaching.
 
 :field_hockey: **FIH** Profile: [https://tms.fih.ch/people/3627](https://tms.fih.ch/people/3627)
 
+#### :red_circle: :white_circle: Swiss Hockey Federation :flag_ch:
+
+##### Aug. 2024 to Current
+
+- **Trainer**, U14 Girls (West):
+    - In charge of training sessions
+
 #### :purple_circle: :green_circle: USTS :flag_ch:
 
 ##### Sep. 2022 to Current
@@ -52,7 +59,7 @@ experiences that I obtained through the years of playing and coaching.
     - In charge of training sessions
     - Youth development
 
-#### :red_circle: :white_circle: Servette HC :flag_ch:
+#### :red_circle: :yellow_circle: Servette HC :flag_ch:
 
 ##### Jul. 2017 to Jun. 2020
 
@@ -179,7 +186,7 @@ experiences that I obtained through the years of playing and coaching.
 
 ### Coach
 
-#### :red_circle: :white_circle: Servette H.C. :flag_ch:
+#### :red_circle: :yellow_circle: Servette H.C. :flag_ch:
 
 - National League A – Men
     - 2018: Vice-Champion
