@@ -39,7 +39,14 @@ experiences that I obtained through the years of playing and coaching.
 
 #### :purple_circle: :green_circle: USTS :flag_ch:
 
-##### Sep. 2022 to Current
+##### Aug. 2024 to Current
+
+- **Head Coach**, U18 Junior Team:
+    - In charge of game, and training plans
+    - In charge of training sessions
+    - Youth development
+
+##### Sep. 2022 to Jun. 2024
 
 <figure markdown>
   ![USTS U15 2022/2023](./images/usts-u15-20230613.jpg){ loading=lazy }
