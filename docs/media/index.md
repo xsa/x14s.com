@@ -7,6 +7,21 @@ Blogs, articles, press coverage of Xavier Santolaria's coaching journey.
 
 ---
 
+## :calendar: 2024
+
+---
+
+### 2024-06-26: "[Hockey sur gazon: à l’US Terre Sainte, les jeunes pousses portent le club](https://www.lacote.ch/vaud/la-cote/terre-sainte/hockey-sur-gazon-a-lus-terre-sainte-les-jeunes-pousses-portent-le-club-1399062){:target="_blank"}"
+
+???+ quote " "
+    Xavier Santolaria a de quoi sourire. Cette saison, à Terre Sainte, sa section hockey sur gazon a rencontré un franc succès, avec deux médailles nationales remportées: les M12 féminines ont été sacrées vice-championnes suisses, alors que samedi dernier, c’est l’équipe mixte de la même catégorie d’âge qui a obtenu le bronze.
+    
+    «Les choses vont dans le bon sens et on commence réellement à préparer l’avenir, explique l’ancien joueur, installé en tant que directeur sportif depuis la saison dernière. Cette année a été axée sur le développement. Nous avons mis en place des entraînements plus professionnels et nous avons intégré de nouveaux entraîneurs. Cela porte ses fruits.»
+
+<small>source: [lacote.ch](https://www.lacote.ch/){:target="_blank"} :flag_ch: :newspaper:</small>
+
+---
+
 ## :calendar: 2019
 
 ---
