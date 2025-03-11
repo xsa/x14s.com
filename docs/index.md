@@ -46,7 +46,9 @@ We provide services, in :flag_be: Belgium | :flag_fr: France | :flag_ch: Switzer
 
 [![Hockey Passion - Your Development Partner](./images/partners/hockey-passion.jpg)](https://hockey-passion.be){:target="_blank"}
 
-[![:flag_ch: BE THE CHANGE - For sustainable longevity and a life full of enjoyment](./images/partners/BTC-logo-white.png)](https://bethechange.swiss/x14santo){:target="_blank"}
+[![:flag_ch: BE THE CHANGE - For sustainable longevity and a life full of enjoyment](./images/partners/BTC-logo-white.png#only-dark)](https://bethechange.swiss/x14santo){:target="_blank"}
+
+[![:flag_ch: BE THE CHANGE - For sustainable longevity and a life full of enjoyment](./images/partners/BTC-logo-black.png#only-light)](https://bethechange.swiss/x14santo){:target="_blank"}
 
 [![NordVPN - Stay Safe Online](./images/partners/faster-than-ever-468x60.PNG)](https://go.nordvpn.net/aff_c?offer_id=15&aff_id=84917&url_id=902){:target="_blank"}
 </div>
