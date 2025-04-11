@@ -30,7 +30,7 @@ experiences that I obtained through the years of playing and coaching.
 
 ### Coach
 
-!!! info ""
+!!! example ""
     :field_hockey: **FIH** Profile: [https://tms.fih.ch/people/3627](https://tms.fih.ch/people/3627)
 
 #### :flag_ch: Swiss Hockey Federation
