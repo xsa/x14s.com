@@ -30,7 +30,8 @@ experiences that I obtained through the years of playing and coaching.
 
 ### Coach
 
-:field_hockey: **FIH** Profile: [https://tms.fih.ch/people/3627](https://tms.fih.ch/people/3627)
+!!! info ""
+    :field_hockey: **FIH** Profile: [https://tms.fih.ch/people/3627](https://tms.fih.ch/people/3627)
 
 #### :flag_ch: Swiss Hockey Federation
 
