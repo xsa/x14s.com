@@ -12,8 +12,8 @@ experiences that I obtained through the years of playing and coaching.
 
 ## Education 
 
-| Organization | Country | Type | Year |
-| :----------: | :-----: | :--: | :--: |
+| Organization | Country | Title | Type | Year |
+| :----------: | :-----: | :---: | :--: | :--: |
 | ![FIH](../images/fih-logo.png){ style="width:50%;" } | International | **FIH Level 1 Coach** | Diploma | 2025 |
 | ![ADEPS](../images/adeps.jpg) | Belgium | **Moniteur Sportif Educateur** | Diploma | 2014 |
 | ![ADEPS](../images/adeps.jpg) | Belgium | **Moniteur Sportif Initiateur** | Diploma | 2013 |
