@@ -12,13 +12,13 @@ experiences that I obtained through the years of playing and coaching.
 
 ## Education 
 
-| Organization | Course/Diploma | Year |
-| :----------: | -------------- | :--: |
-| ![FIH](../images/fih-logo.png){ style="width:50%;" } | **FIH Level 1 Coach** | 2025 |
-| ![ADEPS](../images/adeps.jpg) | ***Moniteur Sportif Educateur*** (Diploma)<br/>**ADEPS**, Belgium | 2014 |
-| ![ADEPS](../images/adeps.jpg) | ***Moniteur Sportif Initiateur*** (Diploma)<br/>**ADEPS**, Belgium | 2013 |
-| ![ARBH/KBHB](../images/logo-arbh_kbhb.gif){ style="width:50%;" } | ***Level 3 Coach*** (Diploma)<br/>**ARBH/KBHB**, Belgium | 2012 |
-| ![ARBH/KBHB](../images/logo-arbh_kbhb.gif){ style="width:50%;" } | ***Indoor Hockey Clinic (by G. Van Eijk (NL))***<br/>**ARBH/KBHB**, Belgium | 2010 |
+| Organization | Country | Type | Year |
+| :----------: | :-----: | :--: | :--: |
+| ![FIH](../images/fih-logo.png){ style="width:50%;" } | International | **FIH Level 1 Coach** | Diploma | 2025 |
+| ![ADEPS](../images/adeps.jpg) | Belgium | **Moniteur Sportif Educateur** | Diploma | 2014 |
+| ![ADEPS](../images/adeps.jpg) | Belgium | **Moniteur Sportif Initiateur** | Diploma | 2013 |
+| ![ARBH/KBHB](../images/logo-arbh_kbhb.gif){ style="width:50%;" } | Belgium | **Level 3 Coach** | Diploma | 2012 |
+| ![ARBH/KBHB](../images/logo-arbh_kbhb.gif){ style="width:50%;" } | Belgium | **Indoor Hockey Clinic (by G. Van Eijk (NL))** | Course | 2010 |
 
 ## Experience
 
