@@ -70,6 +70,7 @@ Interested in becoming a **X14S** partner? [Contact Us :fontawesome-solid-paper-
 
     - [SMALL-SIDED GAMES: How to effectively train your players in variable and complex environments](https://amzn.to/3qc7eqU){:target="_blank"}, by Andreu Enrich
     - [The Champion’s Mind: How Great Athletes Think, Train, and Thrive](https://amzn.to/45s8XHJ){:target="_blank"}, by Jim Afremow
+    - [Hidden Potential: The Science of Achieving Greater Things](https://amzn.to/3EpPJKE){:target="_blank"}, by Adam Grant
     - [7 Keys To Being A Great Coach: Become Your Best and They Will Too](https://amzn.to/44NxV4l){:target="_blank"}, by Allistair McCaw
     - [The Manager: Inside the Minds of Football’s Leaders](https://amzn.to/4779ksN){:target="_blank"}, by Mike Carson
 
