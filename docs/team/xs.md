@@ -32,6 +32,7 @@ experiences that I obtained through the years of playing and coaching.
 
 !!! example ""
     :fontawesome-solid-user: **FIH** Profile: [https://tms.fih.ch/people/3627](https://tms.fih.ch/people/3627)
+    
     :fontawesome-solid-user: **EHF** Profile: [https://eurohockey.altiusrt.com/people/6237](https://eurohockey.altiusrt.com/people/6237)
 
 #### :flag_ch: Swiss Hockey Federation
