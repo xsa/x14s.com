@@ -31,7 +31,6 @@ We provide services, in :flag_be: Belgium | :flag_fr: France | :flag_ch: Switzer
 
 :material-office-building: Founder **X14S**
 
-[:fontawesome-brands-twitter:](https://twitter.com/x14santo){:target="_blank"} 
 [:fontawesome-brands-instagram:](https://instagram.com/x14santo){:target="_blank"}
 </div>
 
