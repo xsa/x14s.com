@@ -20,6 +20,9 @@ experiences that I obtained through the years of playing and coaching.
 | ![ARBH/KBHB](../images/logo-arbh_kbhb.gif){ style="width:50%;" } | Belgium | **Level 3 Coach** | Diploma | 2012 |
 | ![ARBH/KBHB](../images/logo-arbh_kbhb.gif){ style="width:50%;" } | Belgium | **Indoor Hockey Clinic (by G. Van Eijk (NL))** | Course | 2010 |
 
+!!! example ""
+    :fontawesome-solid-user: **FIH Academy** Profile: [https://academy.fih.hockey/profile?id=67ee5df846798d06a0019968](https://academy.fih.hockey/profile?id=67ee5df846798d06a0019968)
+
 ## Experience
 
 ### Player
