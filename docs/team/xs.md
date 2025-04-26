@@ -38,7 +38,7 @@ experiences that I obtained through the years of playing and coaching.
     
     :fontawesome-solid-user: **EHF** Profile: [https://eurohockey.altiusrt.com/people/6237](https://eurohockey.altiusrt.com/people/6237)
 
-???+ example ":flag_ch: Swiss Hockey Federation (Sep. 2023 to Current)"
+???+ example "Swiss Hockey Federation :flag_ch: (Sep. 2023 to Current)"
     ##### Aug. 2024 to Current
 
     - **Trainer**, U14 Girls (West):
@@ -49,7 +49,7 @@ experiences that I obtained through the years of playing and coaching.
     - **Co-Trainer**, U14 Boys (West):
         - Assisting Head Trainer during training sessions  
 
-??? example ":purple_circle: :green_circle: USTS :flag_ch: (Sep. 2021 to Current)"
+??? example "USTS :flag_ch: (Sep. 2021 to Current)"
 
     ##### Aug. 2024 to Current
 
@@ -78,7 +78,7 @@ experiences that I obtained through the years of playing and coaching.
         - In charge of training sessions
         - Youth development
 
-??? example ":red_circle: :yellow_circle: Servette HC :flag_ch: (Nov. 2015 to Jun. 2020)"
+??? example "Servette HC :flag_ch: (Nov. 2015 to Jun. 2020)"
 
     ##### Jul. 2017 to Jun. 2020
 
@@ -111,7 +111,7 @@ experiences that I obtained through the years of playing and coaching.
         - 2017 EuroHockey Club Challenge II (1st – Promoted) :flag_gi: 🥇
         - 2016 EuroHockey Club Challenge I (7th – Relegated) :flag_at:
 
-??? example ":flag_be: Belgian Hockey Federation (Oct. 2015 to May 2016)"
+??? example "Belgian Hockey Federation :flag_be: (Oct. 2015 to May 2016)"
 
     ##### Oct. 2015 to May 2016
 
@@ -120,7 +120,7 @@ experiences that I obtained through the years of playing and coaching.
 
     > The BeGold District hockey program is the starting point for hockey players in Belgium who aspire to play for the Red Lions and Red Panthers at worl level tournaments such as the Olympic Games.
 
-??? example ":red_circle: :white_circle: Royal E. White Star H.C. :flag_be: (Dec. 2013 to May 2015)"
+??? example "Royal E. White Star H.C. :flag_be: (Dec. 2013 to May 2015)"
 
     ##### Dec. 2013 to May 2015
 
@@ -128,7 +128,7 @@ experiences that I obtained through the years of playing and coaching.
         - In charge of post-match coding to produce statistical information using SportCode Pro, iCoda, and self-developed FHAnalytics online platform
         - In charge of maintenance of videos and other databases
 
-??? example ":flag_be: Belgian Hockey Federation (Sep. 2011 to Feb. 2015)"
+??? example "Belgian Hockey Federation :flag_be: (Sep. 2011 to Feb. 2015)"
 
     ##### Sep. 2011 to Feb. 2015
 
@@ -149,7 +149,7 @@ experiences that I obtained through the years of playing and coaching.
       <figcaption>Women Belgium Indoor National Team - Gold Medal, 2012.</figcaption>
     </figure>
 
-??? example ":red_circle: :white_circle: Royal E. White Star H.C. :flag_be: (Dec. 2010 to Feb. 2014)"
+??? example "Royal E. White Star H.C. :flag_be: (Dec. 2010 to Feb. 2014)"
 
     ##### Dec. 2012 to Feb. 2014
 
@@ -171,7 +171,7 @@ experiences that I obtained through the years of playing and coaching.
         - Assisted with training sessions
         - Game duties: penalty corners analysis, tactical chat with subbed-out players
 
-??? example ":blue_circle: :white_circle: Royal Uccle Sport T.H.C. :flag_be: (Dec. 2010 to Feb. 2011)"
+??? example "Royal Uccle Sport T.H.C. :flag_be: (Dec. 2010 to Feb. 2011)"
 
     ##### Dec. 2010 to Feb. 2011
 
@@ -180,7 +180,7 @@ experiences that I obtained through the years of playing and coaching.
         - Assisted with training sessions
         - Game duties: penalty corners analysis, tactical chat with subbed-out players
 
-??? example ":red_circle: :white_circle: Royal E. White Star H.C. :flag_be: (Aug. 2004 to May 2005)"
+??? example "Royal E. White Star H.C. :flag_be: (Aug. 2004 to May 2005)"
 
     ##### Aug. 2004 to May 2005
 
@@ -193,7 +193,7 @@ experiences that I obtained through the years of playing and coaching.
 
 ### Player
 
-#### :red_circle: :white_circle: Royal E. White Star H.C. :flag_be:
+#### Royal E. White Star H.C. :flag_be:
 
 - Belgium Division 1 (f.k.a. Division 2)
     - 2005 🥇
@@ -205,7 +205,7 @@ experiences that I obtained through the years of playing and coaching.
 
 ### Coach
 
-#### :red_circle: :yellow_circle: Servette H.C. :flag_ch:
+#### Servette H.C. :flag_ch:
 
 <figure markdown>
   ![Servette HC Men's 1 - Vice-Champion 2017/2018](../media/images/lna-silver-shc-2018.jpg){ loading=lazy }
@@ -222,7 +222,7 @@ experiences that I obtained through the years of playing and coaching.
     - Championship II - Men
         - 2017: :flag_gi: 1st 🥇
 
-#### :black_circle: :yellow_circle: :red_circle: Women Belgium Indoor National Team (WBINT) :fox:
+#### Women Belgium Indoor National Team (WBINT) :flag_be:
 
 - EuroHockey Indoor Nations Championships
     - Championship II - Women
