@@ -38,17 +38,16 @@ experiences that I obtained through the years of playing and coaching.
     
     :fontawesome-solid-user: **EHF** Profile: [https://eurohockey.altiusrt.com/people/6237](https://eurohockey.altiusrt.com/people/6237)
 
-#### :flag_ch: Swiss Hockey Federation
+???+ info ":flag_ch: Swiss Hockey Federation Sep. 2023 - Current"
+    ##### Aug. 2024 to Current
 
-##### Aug. 2024 to Current
+    - **Trainer**, U14 Girls (West):
+        - In charge of training sessions
 
-- **Trainer**, U14 Girls (West):
-    - In charge of training sessions
+    ##### Sep. 2023 to May 2024
 
-##### Sep. 2023 to May 2024
-
-- **Co-Trainer**, U14 Boys (West):
-    - Assisting Head Trainer during training sessions  
+    - **Co-Trainer**, U14 Boys (West):
+        - Assisting Head Trainer during training sessions  
 
 #### :purple_circle: :green_circle: USTS :flag_ch:
 
