@@ -54,7 +54,7 @@ experiences that I obtained through the years of playing and coaching.
     - **Co-Trainer**, U14 Boys (West):
         - Assisting Head Trainer during training sessions  
 
-??? example "USTS :flag_ch: (Sep. 2021 to Current)"
+???+ example "USTS :flag_ch: (Sep. 2021 to Current)"
 
     ##### Aug. 2024 to Current
 
