@@ -44,6 +44,11 @@ experiences that I obtained through the years of playing and coaching.
     - **Trainer**, U14 Girls (West):
         - In charge of training sessions
 
+    <figure markdown>
+      ![SwissHockey U14 Girls West, 2024/2025](./images/SH-U14G-West-2024-2025.jpg){ loading=lazy }
+      <figcaption>SwissHockey U14 Girls West, 2024/2025; Photo &copy; Petra Wagner</figcaption>
+    </figure>
+
     ##### Sep. 2023 to May 2024
 
     - **Co-Trainer**, U14 Boys (West):
