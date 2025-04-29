@@ -3,7 +3,7 @@ title: Xavier Santolaria
 ---
 # Xavier Santolaria
 
-![Xavier Santolaria](./images/xs-selfpass-cap.jpg)
+![Xavier Santolaria](./images/xs-portrait-SH.jpg){ style="width:25%;" }
 
 ## Objectives
 
