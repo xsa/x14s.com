@@ -6,6 +6,7 @@ title: Xavier Santolaria
 ## Objectives
 
 ![Xavier Santolaria](./images/xs-portrait-SH.jpg){ style="width:25%;" }
+
 Grow as a coach, gain and pass on all of the knowledge, skills, and experiences that I obtained through the years of playing and coaching.
 
 ## Education 
