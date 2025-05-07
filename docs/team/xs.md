@@ -16,7 +16,7 @@ Grow as a coach, gain and pass on all of the knowledge, skills, and experiences 
 | ![FIH](../images/fih-logo.png){ style="width:50%;" } | International | **FIH Level 1 Coach** | Diploma | 2025 |
 | | International | Integrating Goalkeepers Workshop (892) | Workshop | 2025 |
 | ![ADEPS](../images/adeps.jpg) | Belgium | **Moniteur Sportif Educateur** | Diploma | 2014 |
-| ![ADEPS](../images/adeps.jpg) | Belgium | **Moniteur Sportif Initiateur** | Diploma | 2013 |
+| | Belgium | **Moniteur Sportif Initiateur** | Diploma | 2013 |
 | ![ARBH/KBHB](../images/logo-arbh_kbhb.gif){ style="width:50%;" } | Belgium | **Level 3 Coach** | Diploma | 2012 |
 | | Belgium | Indoor Hockey Clinic (by G. Van Eijk (NL)) | Course | 2010 |
 
