@@ -14,6 +14,7 @@ Grow as a coach, gain and pass on all of the knowledge, skills, and experiences 
 | Organization | Country | Title | Type | Year |
 | :----------: | :-----: | :---: | :--: | :--: |
 | ![FIH](../images/fih-logo.png){ style="width:50%;" } | International | **FIH Level 1 Coach** | Diploma | 2025 |
+| &nbsp; | International | Game Analysis Workshop (893) | Workshop | 2025 |
 | &nbsp; | International | Integrating Goalkeepers Workshop (892) | Workshop | 2025 |
 | ![ADEPS](../images/adeps.jpg) | Belgium | **Moniteur Sportif Educateur** | Diploma | 2014 |
 | &nbsp; | Belgium | **Moniteur Sportif Initiateur** | Diploma | 2013 |
