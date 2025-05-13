@@ -11,19 +11,38 @@ Grow as a coach, gain and pass on all of the knowledge, skills, and experiences 
 
 ## Education 
 
-| Organization | Country | Title | Type | Year |
-| :----------: | :-----: | :---: | :--: | :--: |
-| ![FIH](../images/fih-logo.png){ style="width:50%;" } | International | Game Analysis Workshop (893) | Workshop | 2025 |
-| &nbsp; | International | Integrating Goalkeepers Workshop (892) | Workshop | 2025 |
-| &nbsp; | International | **FIH Level 2 Coach** | Equivalence | 2025 |
-| &nbsp; | International | **FIH Level 1 Coach** | Award | 2025 |
-| ![ADEPS](../images/adeps.jpg) | Belgium | **Moniteur Sportif Educateur** | Diploma | 2014 |
-| &nbsp; | Belgium | **Moniteur Sportif Initiateur** | Diploma | 2013 |
-| ![ARBH/KBHB](../images/logo-arbh_kbhb.gif){ style="width:50%;" } | Belgium | **Level 3 Coach** | Diploma | 2012 |
-| &nbsp; | Belgium | Indoor Hockey Clinic (by G. Van Eijk (NL)) | Course | 2010 |
+### International Hockey Federation (FIH)
+
+#### Awards :fontawesome-solid-award:
+
+- 2025: **FIH Level 2 Coach** (equivalence)
+- 2025: **FIH Level 1 Coach**
+
+#### Workshops :material-presentation:
+
+- 2025: [Game Analysis Workshop (893)](https://academy.fih.hockey/course?courseid=gaw893)
+- 2025: [Integrating Goalkeepers Workshop (892)](https://academy.fih.hockey/course?courseid=igw892)
+- 2025: [FIH Top Coach Masterclass (S2.E2): Becoming a Resilient Coach with Julien Boyer](https://academy.fih.hockey/course/tcms2e2)
+- 2025: [FIH Top Coach Masterclass (S2.E1): Breaking Barriers and Lead with Impact](https://academy.fih.hockey/course?courseid=tcms2e1)
+- 2024: [FIH Top Coach Masterclass (S1.E6): Blending Culture with Performance](https://academy.fih.hockey/course?courseid=tcms1e6)
+- 2024: [FIH Top Coach Masterclass (S1.E5): The Modern Press](https://academy.fih.hockey/course?courseid=tcms1e5)
+- 2024: [FIH Top Coach Masterclass (S1.E4): Physical Conditioning](https://academy.fih.hockey/course?courseid=ecms)
+- 2024: [FIH Top Coach Masterclass (S1.E3): Midfield in Attack](https://academy.fih.hockey/course?courseid=tcms1e3)
+- 2024: [FIH Top Coach Masterclass (S1.E2): Coaching Online](https://academy.fih.hockey/course?courseid=fihtcms1e2)
+- 2024: [FIH Top Coach Masterclass (S1.E1): Investigating Individual Creativity](https://academy.fih.hockey/course/tcms1e2)
 
 !!! example ""
     :fontawesome-solid-user: **FIH Academy** Profile: [https://academy.fih.hockey/profile?id=67ee5df846798d06a0019968](https://academy.fih.hockey/profile?id=67ee5df846798d06a0019968)
+
+### Hockey Belgium (ARBH/KBHB)
+
+- 2012: **Level 3 Coach** :fontawesome-solid-award:
+- 2010: Indoor Hockey Clinic (by G. Van Eijk (NL)) :material-presentation:
+
+### ADEPS
+
+- 2014: **Moniteur Sportif Educateur** :fontawesome-solid-award:
+- 2013: **Moniteur Sportif Initiateur** :fontawesome-solid-award:
 
 ## Experience
 
