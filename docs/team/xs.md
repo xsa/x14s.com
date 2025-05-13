@@ -5,7 +5,7 @@ title: Xavier Santolaria
 
 ## Objectives
 
-![Xavier Santolaria](./images/xs-portrait-SH.jpg){ style="width:25%, align=right;" }
+![Xavier Santolaria](./images/xs-portrait-SH.jpg){ style="width:25%; align:right;" }
 
 **Driven by Passion, Focused on Growth**
 
