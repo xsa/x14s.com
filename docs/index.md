@@ -14,6 +14,7 @@ We provide services, in :flag_be: Belgium | :flag_fr: France | :flag_ch: Switzer
 **Clubs and National Associations which we've worked with:**
 
 <div style="text-align:center" markdown>
+[![Swiss Hockey](./images/SwissHockey-logo-white.png){ style="width:20%;" }](https://www.swisshockey.org){:target="_blank"}
 [![USTS Field Hockey](./images/usts-logo.png){ style="width:20%;" }](https://www.ustsfieldhockey.ch){:target="_blank"} 
 [![Servette HC](./images/shc-logo.png){ style="width:20%;" }](http://www.servettehc.ch){:target="_blank"} 
 [![ARBH - KBHB](./images/logo-arbh_kbhb.gif){ style="width:20%;" }](https://hockey.be){:target="_blank"} 
