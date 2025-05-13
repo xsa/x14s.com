@@ -30,7 +30,7 @@ and creating **unforgettable moments**—whether it’s **lifting a trophy** or 
 - 2025: [Game Analysis Workshop (893)](https://academy.fih.hockey/course?courseid=gaw893)
 - 2025: [Integrating Goalkeepers Workshop (892)](https://academy.fih.hockey/course?courseid=igw892)
 - 2025: [FIH L1C Online (872)](https://academy.fih.hockey/course?courseid=l1c872)
-- 2025: [FIH Top Coach Masterclass (S2.E2): Becoming a Resilient Coach with Julien Boyer](https://academy.fih.hockey/course/tcms2e2)
+- 2025: [FIH Top Coach Masterclass (S2.E2): Becoming a Resilient Coach](https://academy.fih.hockey/course/tcms2e2)
 - 2025: [FIH Top Coach Masterclass (S2.E1): Breaking Barriers and Lead with Impact](https://academy.fih.hockey/course?courseid=tcms2e1)
 - 2024: [FIH Top Coach Masterclass (S1.E6): Blending Culture with Performance](https://academy.fih.hockey/course?courseid=tcms1e6)
 - 2024: [FIH Top Coach Masterclass (S1.E5): The Modern Press](https://academy.fih.hockey/course?courseid=tcms1e5)
@@ -45,7 +45,7 @@ and creating **unforgettable moments**—whether it’s **lifting a trophy** or 
 ### :flag_be: Hockey Belgium (ARBH/KBHB)
 
 - 2012: **Level 3 Coach** :fontawesome-solid-award:
-- 2010: Indoor Hockey Clinic (by G. Van Eijk (NL)) :material-presentation:
+- 2010: Indoor Hockey Clinic (by G. Van Eijk :flag_nl:) :material-presentation:
 
 ### :flag_be: ADEPS
 
