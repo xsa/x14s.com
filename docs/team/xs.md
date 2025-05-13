@@ -11,7 +11,7 @@ Grow as a coach, gain and pass on all of the knowledge, skills, and experiences 
 
 ## Education 
 
-### :red_circle: :white_circle: :large_blue_circle: International Hockey Federation (FIH)
+### :red_circle: :white_circle: :blue_circle: International Hockey Federation (FIH)
 
 #### Awards :fontawesome-solid-award:
 
