@@ -35,12 +35,12 @@ Grow as a coach, gain and pass on all of the knowledge, skills, and experiences 
 !!! example ""
     :fontawesome-solid-user: **FIH Academy** Profile: [https://academy.fih.hockey/profile?id=67ee5df846798d06a0019968](https://academy.fih.hockey/profile?id=67ee5df846798d06a0019968)
 
-### Hockey Belgium (ARBH/KBHB)
+### :flag_be: Hockey Belgium (ARBH/KBHB)
 
 - 2012: **Level 3 Coach** :fontawesome-solid-award:
 - 2010: Indoor Hockey Clinic (by G. Van Eijk (NL)) :material-presentation:
 
-### ADEPS
+### :flag_be: ADEPS
 
 - 2014: **Moniteur Sportif Educateur** :fontawesome-solid-award:
 - 2013: **Moniteur Sportif Initiateur** :fontawesome-solid-award:
