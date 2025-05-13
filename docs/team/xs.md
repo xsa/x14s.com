@@ -9,11 +9,12 @@ title: Xavier Santolaria
 
 **Driven by Passion, Focused on Growth**
 
-With over 40 years in the game, my mission as a field hockey coach is to keep growing, mastering the sport
-I love, and sharing that passion with every player, coach, and club I work with. I’m committed to mentoring
-the next generation, building strong teams, and creating unforgettable moments—whether it’s lifting a
-trophy or simply helping a group play their best hockey. For me, it’s about joy, progress, and leaving a
-lasting impact on and off the field.
+With over **40 years** in the game, my mission as a **field hockey coach** is to keep **growing**,
+**mastering** the sport I love, and sharing that **passion** with every **player**, **coach**, and
+**club** I work with. I’m committed to **mentoring** the next generation, building **strong teams**,
+and creating **unforgettable moments**—whether it’s **lifting a trophy** or simply helping a group
+**play their best hockey**. For me, it’s about **joy**, **progress**, and leaving a **lasting impact** on and off the field.
+
 
 ## Education 
 
