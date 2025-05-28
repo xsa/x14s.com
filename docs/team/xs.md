@@ -43,9 +43,10 @@ and creating **unforgettable moments**—whether it’s **lifting a trophy** or 
 - 2024: [FIH Top Coach Masterclass (S1.E2): Coaching Online](https://academy.fih.hockey/course?courseid=fihtcms1e2)
 - 2024: [FIH Top Coach Masterclass (S1.E1): Investigating Individual Creativity](https://academy.fih.hockey/course/tcms1e2)
 
-<small>\*\*\*\* *Mandatory workshops for the FIH Level 4 Coach Certificate.*</small>
-
-<small>\*\*\* *Mandatory workshops for the FIH Level 3 Coach Certificate.*</small>
+<small>
+\*\*\*\* *Mandatory workshops for the FIH Level 4 Coach Certificate.*<br/>
+\*\*\* *Mandatory workshops for the FIH Level 3 Coach Certificate.*
+</small>
 
 ### :flag_be: Hockey Belgium (ARBH/KBHB)
 
