@@ -27,8 +27,9 @@ and creating **unforgettable moments**—whether it’s **lifting a trophy** or 
 
 #### Workshops :material-presentation:
 
-- 2025: [Game Analysis Workshop (893)](https://academy.fih.hockey/course?courseid=gaw893)
-- 2025: [Integrating Goalkeepers Workshop (892)](https://academy.fih.hockey/course?courseid=igw892)
+- 2025: [Session Design Workshop (890)](https://academy.fih.hockey/course?courseid=sdw890) \*\*\*
+- 2025: [Game Analysis Workshop (893)](https://academy.fih.hockey/course?courseid=gaw893) \*\*\*
+- 2025: [Integrating Goalkeepers Workshop (892)](https://academy.fih.hockey/course?courseid=igw892) \*\*\*
 - 2025: [FIH L1C Online (872)](https://academy.fih.hockey/course?courseid=l1c872)
 - 2025: [FIH Top Coach Masterclass (S2.E2): Becoming a Resilient Coach](https://academy.fih.hockey/course/tcms2e2)
 - 2025: [FIH Top Coach Masterclass (S2.E1): Breaking Barriers and Lead with Impact](https://academy.fih.hockey/course?courseid=tcms2e1)
@@ -38,6 +39,10 @@ and creating **unforgettable moments**—whether it’s **lifting a trophy** or 
 - 2024: [FIH Top Coach Masterclass (S1.E3): Midfield in Attack](https://academy.fih.hockey/course?courseid=tcms1e3)
 - 2024: [FIH Top Coach Masterclass (S1.E2): Coaching Online](https://academy.fih.hockey/course?courseid=fihtcms1e2)
 - 2024: [FIH Top Coach Masterclass (S1.E1): Investigating Individual Creativity](https://academy.fih.hockey/course/tcms1e2)
+
+<small>\*\*\*\* *Mandatory workshops for the FIH Level 4 Coach Certificate.*</small>
+
+<small>\*\*\* *Mandatory workshops for the FIH Level 3 Coach Certificate.*</small>
 
 !!! example ""
     :fontawesome-solid-user: **FIH Academy** Profile: [https://academy.fih.hockey/profile?id=67ee5df846798d06a0019968](https://academy.fih.hockey/profile?id=67ee5df846798d06a0019968)
