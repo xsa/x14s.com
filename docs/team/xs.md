@@ -20,6 +20,9 @@ and creating **unforgettable moments**—whether it’s **lifting a trophy** or 
 
 ### :red_circle: :white_circle: :blue_circle: International Hockey Federation (FIH)
 
+!!! example ""
+    :fontawesome-solid-user: **FIH Academy** Profile: [https://academy.fih.hockey/profile?id=67ee5df846798d06a0019968](https://academy.fih.hockey/profile?id=67ee5df846798d06a0019968)
+
 #### Awards :fontawesome-solid-award:
 
 - 2025: **FIH Level 2 Coach** (equivalence)
@@ -43,9 +46,6 @@ and creating **unforgettable moments**—whether it’s **lifting a trophy** or 
 <small>\*\*\*\* *Mandatory workshops for the FIH Level 4 Coach Certificate.*</small>
 
 <small>\*\*\* *Mandatory workshops for the FIH Level 3 Coach Certificate.*</small>
-
-!!! example ""
-    :fontawesome-solid-user: **FIH Academy** Profile: [https://academy.fih.hockey/profile?id=67ee5df846798d06a0019968](https://academy.fih.hockey/profile?id=67ee5df846798d06a0019968)
 
 ### :flag_be: Hockey Belgium (ARBH/KBHB)
 
