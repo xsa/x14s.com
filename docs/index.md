@@ -45,7 +45,9 @@ We provide services, in :flag_be: Belgium | :flag_fr: France | :flag_ch: Switzer
 ## Partners
 
 <div style="text-align:center" markdown>
-[![Ritual Hockey](./images/partners/ritualhockey-logo-w.png)](https://www.ritualhockey.com){:target="_blank"}
+[![Ritual Hockey](./images/partners/ritual-field-hockey-logo-w.png#only-dark){style="width:50%;"}](https://www.ritualhockey.com){:target="_blank"}
+
+[![Ritual Hockey](./images/partners/ritual-field-hockey-logo-b.png#only-light){style="width:50%;"}](https://www.ritualhockey.com){:target="_blank"}
 
 [![Scorrd - Where Hockey Connects](./images/partners/scorrd-logo.svg)](https://www.scorrd.com){:target="_blank"}
 
