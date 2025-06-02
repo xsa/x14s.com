@@ -101,11 +101,6 @@ and creating **unforgettable moments**—whether it’s **lifting a trophy** or 
 
     ##### Sep. 2022 to Jun. 2024
 
-    <figure markdown>
-      ![USTS U15 2022/2023](./images/usts-u15-20230613.jpg){ loading=lazy }
-      <figcaption>USTS U15 - Season 2022/2023; Photo &copy; Yann Crausaz</figcaption>
-    </figure>
-
     - **Head Coach**, U15 Junior Team:
         - In charge of game, and training plans
         - In charge of training sessions
