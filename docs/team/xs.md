@@ -236,9 +236,9 @@ and creating **unforgettable moments**—whether it’s **lifting a trophy** or 
 
 #### Royal E. White Star H.C. :flag_be:
 
-- Belgium Division 1 (f.k.a. Division 2)
+- Belgium National 1 Division
     - 2005 🥇
-- Belgium Indoor
+- Belgium Indoor Honour Division
     - 2005, 2006 🥇
 - EuroHockey Indoor Club Champion Cup
     - Challenge I - Men
