@@ -30,6 +30,7 @@ and creating **unforgettable moments**—whether it’s **lifting a trophy** or 
 
 #### Workshops :material-presentation:
 
+- 2025: [Talent Identification Workshop (898)](https://academy.fih.hockey/course?courseid=tiw625) \*\*\*\*
 - 2025: [Session Design Workshop (890)](https://academy.fih.hockey/course?courseid=sdw890) \*\*\*
 - 2025: [Game Analysis Workshop (893)](https://academy.fih.hockey/course?courseid=gaw893) \*\*\*
 - 2025: [Integrating Goalkeepers Workshop (892)](https://academy.fih.hockey/course?courseid=igw892) \*\*\*
