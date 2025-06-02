@@ -53,7 +53,7 @@ We provide services, in :flag_be: Belgium | :flag_fr: France | :flag_ch: Switzer
 
 [![LEAD Field Hockey](./images/partners/LEAD-logo-white.png#only-dark){style="width:45%;"}](https://www.leadfieldhockey.com){:target="_blank"}
 
-[![Hockey Passion - Your Development Partner](./images/partners/hockey-passion.jpg){style="width:75%;"}](https://hockey-passion.be){:target="_blank"}
+[![Hockey Passion - Your Development Partner](./images/partners/hockey-passion.jpg)](https://hockey-passion.be){:target="_blank"}
 
 [![:flag_ch: BE THE CHANGE - For sustainable longevity and a life full of enjoyment](./images/partners/BTC-logo-white.png#only-dark){style="width:50%;"}](https://bethechange.swiss/x14santo){:target="_blank"}
 
