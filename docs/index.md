@@ -49,6 +49,10 @@ We provide services, in :flag_be: Belgium | :flag_fr: France | :flag_ch: Switzer
 
 [![Ritual Hockey](./images/partners/ritual-field-hockey-logo-b.png#only-light){style="width:50%;"}](https://www.ritualhockey.com){:target="_blank"}
 
+[![LEAD Field Hockey](./images/partners/LEAD-logo-black.png#only-light){style="width:50%;"}](https://www.leadfieldhockey.com){:target="_blank"}
+
+[![LEAD Field Hockey](./images/partners/LEAD-logo-white.png#dark-light){style="width:50%;"}](https://www.leadfieldhockey.com){:target="_blank"}
+
 [![Scorrd - Where Hockey Connects](./images/partners/scorrd-logo.svg)](https://www.scorrd.com){:target="_blank"}
 
 [![Hockey Passion - Your Development Partner](./images/partners/hockey-passion.jpg)](https://hockey-passion.be){:target="_blank"}
