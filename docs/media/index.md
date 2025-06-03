@@ -20,6 +20,17 @@ Blogs, articles, press coverage of Xavier Santolaria's coaching journey.
 
 ---
 
+### 2025-04-16: "[STRUCTURED CHAOS: DELIBERATE PLAY AND THE MODERN FIELD HOCKEY PLAYER]([https://www.leadfieldhockey.com/blog/why-youth-hockey-players-need-video-analysis](https://www.linkedin.com/pulse/structured-chaos-deliberate-play-modern-field-hockey-santolaria-ubcxe)){:target="_blank"}"
+
+???+ quote " "
+    Picture this: a group of kids arrives early for training. Instead of waiting around, they set up a mini-game with cones as goals, using sticks that don’t match and rules they invent on the fly. There’s chaos, laughter, creative dribbling, and unexpected passes. No coach steps in — and no one wants to stop.
+
+    Now imagine how much they’re learning.
+
+<small>source: [linkedin.com](https://www.linkedin.com/){:target="_blank"} :flag_us: :globe_with_meridians:</small>
+
+---
+
 ## :calendar: 2024
 
 ---
