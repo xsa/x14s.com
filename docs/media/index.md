@@ -11,7 +11,7 @@ Blogs, articles, press coverage of Xavier Santolaria's coaching journey.
 
 ---
 
-### 2025-06-02: "[Why Youth Hockey Players Need Video Analysis](https://www.leadfieldhockey.com/blog/why-youth-hockey-players-need-video-analysis){:target="_blank"}"
+### 2025-06-02: "[WHY YOUTH HOCKEY PLAYERS NEED VIDEO ANALYSIS](https://www.leadfieldhockey.com/blog/why-youth-hockey-players-need-video-analysis){:target="_blank"}"
 
 ???+ quote " "
     In today’s fast-evolving sports landscape, video analysis is no longer the preserve of elite athletes—it’s becoming a game-changer at the youth level, especially in a fast-paced and tactical sport like field hockey. While pitch time, drills, and physical training remain critical, the ability to see and understand the game differently is helping players learn faster, play smarter, and work better as a team.
@@ -24,7 +24,7 @@ Blogs, articles, press coverage of Xavier Santolaria's coaching journey.
 
 ---
 
-### 2024-06-26: "[Hockey sur gazon: à l’US Terre Sainte, les jeunes pousses portent le club](https://www.lacote.ch/vaud/la-cote/terre-sainte/hockey-sur-gazon-a-lus-terre-sainte-les-jeunes-pousses-portent-le-club-1399062){:target="_blank"}"
+### 2024-06-26: "[HOCKEY SUR GAZON: À L’US TERRE SAINTE, LES JEUNES POUSSES PORTENT LE CLUB](https://www.lacote.ch/vaud/la-cote/terre-sainte/hockey-sur-gazon-a-lus-terre-sainte-les-jeunes-pousses-portent-le-club-1399062){:target="_blank"}"
 
 ???+ quote " "
     Xavier Santolaria a de quoi sourire. Cette saison, à Terre Sainte, sa section hockey sur gazon a rencontré un franc succès, avec deux médailles nationales remportées: les M12 féminines ont été sacrées vice-championnes suisses, alors que samedi dernier, c’est l’équipe mixte de la même catégorie d’âge qui a obtenu le bronze.
