@@ -53,7 +53,8 @@ and creating **unforgettable moments**—whether it’s **lifting a trophy** or 
 ### :flag_be: Hockey Belgium (ARBH/KBHB)
 
 - 2012: **Level 3 Coach** :fontawesome-solid-award:
-- 2010: Indoor Hockey Clinic, *by G. Van Eijk* :flag_nl: :material-presentation:
+- 2011: *Impressions Of The 2011 World Cup “indoor” in Poznan (POL) And Impact On The Game*, by *Koen Van Praet* :flag_be: :material-presentation:
+- 2010: Indoor Hockey Clinic, by *G. Van Eijk* :flag_nl: :material-presentation:
 
 ### :flag_be: ADEPS
 
