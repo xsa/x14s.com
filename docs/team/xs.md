@@ -59,9 +59,14 @@ and creating **unforgettable moments**—whether it’s **lifting a trophy** or 
 
 ### :flag_be: Hockey Belgium (ARBH/KBHB)
 
-- 2012: **Level 3 Coach** (*Men's National 1 Division & Women's Honour Division*) :fontawesome-solid-award:
-- 2011: *Impressions Of The 2011 World Cup “indoor” in Poznan (POL) And Impact On The Game*, by *Koen Van Praet* :flag_be: :material-presentation:
-- 2010: Indoor Hockey Clinic, by *G. Van Eijk* :flag_nl: :material-presentation:
+#### 2012
+- **Level 3 Coach** (*Men's National 1 Division & Women's Honour Division*) :fontawesome-solid-award:
+
+#### 2011
+- 2011: *Impressions Of The 2011 World Cup “indoor” in Poznan (POL) And Impact On The Game*, <small>by Koen Van Praet :flag_be:</small> :material-presentation:
+
+#### 2010
+- 2010: *Indoor Hockey Clinic*, <small>by G. Van Eijk :flag_nl:</small> :material-presentation:
 
 ### :flag_be: ADEPS
 
