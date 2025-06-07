@@ -15,6 +15,11 @@ With over **40 years** in the game, my mission as a **field hockey coach** is to
 and creating **unforgettable moments**—whether it’s **lifting a trophy** or simply helping a group
 **play their best hockey**. For me, it’s about **joy**, **progress**, and leaving a **lasting impact** on and off the field.
 
+<div style="text-align:center" markdown>
+[![Ritual Hockey](./images/partners/ritual-field-hockey-logo-w.png#only-dark){style="width:50%;"}](https://www.ritualhockey.com){:target="_blank"}
+[![Ritual Hockey](./images/partners/ritual-field-hockey-logo-b.png#only-light){style="width:50%;"}](https://www.ritualhockey.com){:target="_blank"}
+*Supported by [Ritual Hockey](https://www.ritualhockey.com) since 2016*
+</div>
 
 ## Education 
 
