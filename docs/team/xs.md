@@ -76,8 +76,8 @@ and creating **unforgettable moments**—whether it’s **lifting a trophy** or 
 
 ### :flag_be: ADEPS
 
-- 2014: **Moniteur Sportif Educateur** :fontawesome-solid-award:
-- 2013: **Moniteur Sportif Initiateur** :fontawesome-solid-award:
+- 2014: [**Moniteur Sportif Educateur**](https://formation-cadres-adeps.cfwb.be/vocation-pedagogique/moniteur-sportif-educateur/){:target="_blank"} :fontawesome-solid-award:
+- 2013: [**Moniteur Sportif Initiateur**](https://formation-cadres-adeps.cfwb.be/vocation-pedagogique/moniteur-sportif-initiateur/){:target="_blank"} :fontawesome-solid-award:
 
 ## Experience
 
