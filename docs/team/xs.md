@@ -95,10 +95,19 @@ and creating **unforgettable moments**—whether it’s **lifting a trophy** or 
     :fontawesome-solid-user: **EHF** Profile: [https://eurohockey.altiusrt.com/people/6237](https://eurohockey.altiusrt.com/people/6237)
 
 ???+ example "Swiss Hockey Federation :flag_ch: (Sep. 2023 to Current)"
-    ##### Aug. 2024 to Current
+    ##### Aug. 2025 to Current
+
+    - **Head Coach**, U16 Boys:
+        - In charge of game, and training plans
+        - In charge of training sessions
+        - In charge of selections
+        - Youth development
+
+    ##### Aug. 2024 to Jun. 2025
 
     - **Trainer**, U14 Girls (West):
         - In charge of training sessions
+        - Youth development
 
     <figure markdown>
       ![SwissHockey U14 Girls West, 2024/2025](./images/SH-U14G-West-2024-2025.jpg){ loading=lazy }
@@ -108,7 +117,8 @@ and creating **unforgettable moments**—whether it’s **lifting a trophy** or 
     ##### Sep. 2023 to May 2024
 
     - **Co-Trainer**, U14 Boys (West):
-        - Assisting Head Trainer during training sessions  
+        - Assisting Head Trainer during training sessions
+        - Youth development
 
 ???+ example "USTS :flag_ch: (Sep. 2021 to Current)"
 
