@@ -40,6 +40,7 @@ and creating **unforgettable moments**—whether it’s **lifting a trophy** or 
 
 ##### 2025
 
+- [Advanced Game Analysis Workshop (906)](https://academy.fih.hockey/path-player?courseid=agw906) \*\*\*\*
 - [FIH L3C Online (902)](https://academy.fih.hockey/course?courseid=l3c902) \*\*\*
 - [Talent Identification Workshop (898)](https://academy.fih.hockey/course?courseid=tiw625) \*\*\*\*
 - [Session Design Workshop (890)](https://academy.fih.hockey/course?courseid=sdw890) \*\*\*
