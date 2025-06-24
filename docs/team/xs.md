@@ -41,11 +41,11 @@ and creating **unforgettable moments**—whether it’s **lifting a trophy** or 
 ##### 2025
 
 - [Advanced Game Analysis Workshop (906)](https://academy.fih.hockey/path-player?courseid=agw906) \*\*\*\*
-- [FIH L3C Online (902)](https://academy.fih.hockey/course?courseid=l3c902) \*\*\*
 - [Talent Identification Workshop (898)](https://academy.fih.hockey/course?courseid=tiw625) \*\*\*\*
-- [Session Design Workshop (890)](https://academy.fih.hockey/course?courseid=sdw890) \*\*\*
-- [Game Analysis Workshop (893)](https://academy.fih.hockey/course?courseid=gaw893) \*\*\*
-- [Integrating Goalkeepers Workshop (892)](https://academy.fih.hockey/course?courseid=igw892) \*\*\*
+- [FIH L3C Online (902)](https://academy.fih.hockey/course?courseid=l3c902) \*\*\*
+    - [Session Design Workshop (890)](https://academy.fih.hockey/course?courseid=sdw890) \*\*\*
+    - [Game Analysis Workshop (893)](https://academy.fih.hockey/course?courseid=gaw893) \*\*\*
+    - [Integrating Goalkeepers Workshop (892)](https://academy.fih.hockey/course?courseid=igw892) \*\*\*
 - [FIH L1C Online (872)](https://academy.fih.hockey/course?courseid=l1c872)
 - [FIH Top Coach Masterclass (S2.E2): Becoming a Resilient Coach](https://academy.fih.hockey/course/tcms2e2)
 - [FIH Top Coach Masterclass (S2.E1): Breaking Barriers and Lead with Impact](https://academy.fih.hockey/course?courseid=tcms2e1)
