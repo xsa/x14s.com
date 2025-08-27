@@ -40,10 +40,10 @@ and creating **unforgettable moments**—whether it’s **lifting a trophy** or 
 
 ##### 2025
 
-- [Power of Principles Workshop (948)](https://academy.fih.hockey/path-player?courseid=ppw948) \*\*\*
 - [Advanced Game Analysis Workshop (906)](https://academy.fih.hockey/path-player?courseid=agw906) \*\*\*\*
 - [Talent Identification Workshop (898)](https://academy.fih.hockey/course?courseid=tiw625) \*\*\*\*
 - [FIH L3C Online (902)](https://academy.fih.hockey/course?courseid=l3c902) \*\*\*
+    - [Power of Principles Workshop (948)](https://academy.fih.hockey/path-player?courseid=ppw948) \*\*\*
     - [Session Design Workshop (890)](https://academy.fih.hockey/course?courseid=sdw890) \*\*\*
     - [Game Analysis Workshop (893)](https://academy.fih.hockey/course?courseid=gaw893) \*\*\*
     - [Integrating Goalkeepers Workshop (892)](https://academy.fih.hockey/course?courseid=igw892) \*\*\*
