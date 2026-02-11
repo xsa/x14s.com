@@ -31,15 +31,15 @@ and creating **unforgettable moments**—whether it’s **lifting a trophy** or 
 
 #### Awards :fontawesome-solid-award:
 
-##### 2026
-- [Body Confident Coaching](https://academy.fih.hockey/course/bccoaching)
-
 ##### 2025
 - **FIH Level 3 Coach** (*ongoing*)
 - **FIH Level 2 Coach** (equivalence)
 - **FIH Level 1 Coach**
 
 #### Workshops :material-presentation:
+
+##### 2026
+- [Body Confident Coaching](https://academy.fih.hockey/course/bccoaching)
 
 ##### 2025
 
