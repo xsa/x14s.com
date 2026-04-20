@@ -110,6 +110,11 @@ and creating **unforgettable moments**—whether it’s **lifting a trophy** or 
         - In charge of selections
         - Youth development
 
+    <figure markdown>
+      ![SwissHockey U16 Boys, 2025/2026](./images/SH-U16B-2025-26.jpg){ loading=lazy }
+      <figcaption>SwissHockey U16 Boys, 2025/2026</figcaption>
+    </figure>
+
     ##### Aug. 2024 to Jun. 2025
 
     - **Trainer**, U14 Girls (West):
