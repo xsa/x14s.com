@@ -101,7 +101,7 @@ and creating **unforgettable moments**—whether it’s **lifting a trophy** or 
     
     :fontawesome-solid-user: **EHF** Profile: [https://eurohockey.altiusrt.com/people/6237](https://eurohockey.altiusrt.com/people/6237)
 
-???+ example "Swiss Hockey Federation :flag_ch: (Sep. 2023 to Current)"
+??? example "Swiss Hockey Federation :flag_ch: (Sep. 2023 to Current)"
     ##### Aug. 2025 to Current
 
     - **Head Coach**, U16 Boys:
@@ -132,9 +132,16 @@ and creating **unforgettable moments**—whether it’s **lifting a trophy** or 
         - Assisting Head Trainer during training sessions
         - Youth development
 
-???+ example "USTS :flag_ch: (Sep. 2021 to Current)"
+??? example "USTS :flag_ch: (Sep. 2021 to Current)"
 
-    ##### Aug. 2024 to Current
+    ##### Aug. 2025 to Current
+
+    - **Head Coach**, Women's 1 Team:
+        - In charge of game, and training plans
+        - In charge of training sessions
+        - In charge of video analysis
+    
+    ##### Aug. 2024 to Jun. 2025
 
     - **Head Coach**, U18 Junior Team:
         - In charge of game, and training plans
