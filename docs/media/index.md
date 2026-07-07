@@ -11,7 +11,7 @@ Blogs, articles, press coverage of Xavier Santolaria's coaching journey.
 
 ---
 
-### 2025-11-30: "[INDOOR HOCKEY: THE FUTSAL OF FIELD HOCKEY - A STRATEGIC DEVELOPMENT TOOL](https://www.leadfieldhockey.com/blog/indoor-hockey){:target="_blank""
+### 2025-11-30: "[INDOOR HOCKEY: THE FUTSAL OF FIELD HOCKEY - A STRATEGIC DEVELOPMENT TOOL](https://www.leadfieldhockey.com/blog/indoor-hockey){:target="_blank"}"
 
 ???+ quote " "
     Indoor hockey is often viewed as a niche winter sport: smaller courts, boards, and short leagues. Many programs treat it as a seasonal diversion rather than a core part of development. But indoor hockey is far more than a winter filler.
