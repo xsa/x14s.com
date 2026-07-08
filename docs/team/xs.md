@@ -102,7 +102,7 @@ and creating **unforgettable moments**—whether it’s **lifting a trophy** or 
     :fontawesome-solid-user: **EHF** Profile: [https://eurohockey.altiusrt.com/people/6237](https://eurohockey.altiusrt.com/people/6237)
 
 ??? example "Swiss Hockey Federation :flag_ch: (Sep. 2023 to Current)"
-    ##### Aug. 2025 to Current
+    ##### Aug. 2025 to Jul. 2026
 
     - **Head Coach**, U16 Boys:
         - In charge of game, and training plans
