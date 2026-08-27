@@ -143,14 +143,14 @@ and creating **unforgettable moments**—whether it’s **lifting a trophy** or 
 
     ##### Jul. 2023 to Present
 
-    - ** Sport/Technical Director:
+    - **Sport/Technical Director**:
         - Strategic Planning and Development
         - Coach Management
         - Team Management and Structure
         - Player Development
         - Budget and Resource Management
 
-        Working in a flexible and international context, I combine on-site leadership with remote strategic work, contributing both to the club's daily operations and its long-term positioning.
+    Working in a flexible and international context, I combine on-site leadership with remote strategic work, contributing both to the club's daily operations and its long-term positioning.
     
     ##### Aug. 2024 to Jun. 2025
 
