@@ -134,12 +134,23 @@ and creating **unforgettable moments**—whether it’s **lifting a trophy** or 
 
 ??? example "USTS :flag_ch: (Sep. 2021 to Current)"
 
-    ##### Aug. 2025 to Current
+    ##### Aug. 2025 to Present
 
     - **Head Coach**, Women's 1 Team:
         - In charge of game, and training plans
         - In charge of training sessions
         - In charge of video analysis
+
+    ##### Jul. 2023 to Present
+
+    - ** Sport/Technical Director:
+        - Strategic Planning and Development
+        - Coach Management
+        - Team Management and Structure
+        - Player Development
+        - Budget and Resource Management
+
+        Working in a flexible and international context, I combine on-site leadership with remote strategic work, contributing both to the club's daily operations and its long-term positioning.
     
     ##### Aug. 2024 to Jun. 2025
 
