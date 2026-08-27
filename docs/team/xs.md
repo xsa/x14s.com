@@ -22,7 +22,7 @@ and creating **unforgettable moments**—whether it’s **lifting a trophy** or 
 *Supported by [Ritual Hockey](https://www.ritualhockey.com) since 2016*
 </div>
 
-## Education 
+## Education
 
 ### :red_circle: :white_circle: :blue_circle: International Hockey Federation (FIH)
 
@@ -110,6 +110,9 @@ and creating **unforgettable moments**—whether it’s **lifting a trophy** or 
         - In charge of selections
         - Youth development
 
+    - Tournaments:
+        - EuroHockey 5s U16 Championship Boys 2026 (6th) :flag_tr:
+
     <figure markdown>
       ![SwissHockey U16 Boys, 2025/2026](./images/SH-U16B-2025-26.jpg){ loading=lazy }
       <figcaption>SwissHockey U16 Boys, 2025/2026</figcaption>
@@ -142,7 +145,6 @@ and creating **unforgettable moments**—whether it’s **lifting a trophy** or 
         - In charge of video analysis
 
     ##### Jul. 2023 to Present
-
     - **Sport/Technical Director**:
         - Strategic Planning and Development
         - Coach Management
