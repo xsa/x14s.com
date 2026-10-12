@@ -7,6 +7,19 @@ Blogs, articles, press coverage of Xavier Santolaria's coaching journey.
 
 ---
 
+## :calendar: 2026
+
+---
+
+### 2026-10-07: "[How USTS plans every session with LEAD](https://www.leadfieldhockey.com/blog/how-usts-plans-every-session-with-lead){:target="_blank"}"
+
+???+ quote " "
+    USTS is a field hockey club in the French-speaking part of Switzerland, between Geneva and Lausanne. Xavier Santolaria, its sport director, puts the club’s purpose simply: “At USTS, everything we do is about the development and growth of our teams and players.” And in his words, “LEAD has become the tool that helped us deliver on that every single week.”
+
+<small>source: [leadfieldhockey.com](https://www.leadfieldhockey.com/){:target="_blank"} :flag_be: :globe_with_meridians:</small>
+
+---
+
 ## :calendar: 2025
 
 ---
