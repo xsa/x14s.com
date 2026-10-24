@@ -40,6 +40,7 @@ and creating **unforgettable moments**—whether it’s **lifting a trophy** or 
 
 ##### 2026
 - [FIH Top Coach Masterclass (S4.E7): Defending with a player down](https://academy.fih.hockey/course/tcms4e7)
+- [FIH Top Coach Masterclass (S4.E3): Designing the long corner in the modern game](https://academy.fih.hockey/course/tcms4e3)
 - [Body Confident Coaching](https://academy.fih.hockey/course/bccoaching)
 
 ##### 2025
