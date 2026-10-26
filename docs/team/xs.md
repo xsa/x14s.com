@@ -43,6 +43,7 @@ and creating **unforgettable moments**—whether it’s **lifting a trophy** or 
 - [FIH Top Coach Masterclass (S4.E6): Defending the Aerial](https://academy.fih.hockey/course/tcms4e6)
 - [FIH Top Coach Masterclass (S4.E5): Numbers Game: The Art of the Overload](https://academy.fih.hockey/course/tcms4e5)
 - [FIH Top Coach Masterclass (S4.E3): Designing the long corner in the modern game](https://academy.fih.hockey/course/tcms4e3)
+- [FIH Top Coach Masterclass (S3.E4): Understanding Zonal Structures](https://academy.fih.hockey/course/tcms3e4)
 - [Body Confident Coaching](https://academy.fih.hockey/course/bccoaching)
 
 ##### 2025
