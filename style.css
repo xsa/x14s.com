@@ -1,0 +1,161 @@
+/* X14S one-page site. Colors live in the :root block, change them there. */
+
+:root {
+  --bg: #ffffff;
+  --text: #1c2024;
+  --muted: #5d6670;
+  --line: #e3e7eb;
+  --card: #f5f7f9;
+  --band: #f1f4f6; /* alternate section background */
+  --accent: #1f7a4d;
+  --tile: #2b2f36; /* dark tile behind club logos (some of them are white) */
+  --radius: 10px;
+  --measure: 62rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #14181c;
+    --text: #e8ecef;
+    --muted: #9aa5af;
+    --line: #2a3138;
+    --card: #1c2228;
+    --band: #1b2126;
+    --accent: #5fcf95;
+  }
+}
+
+* { box-sizing: border-box; }
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 4.5rem;
+  -webkit-text-size-adjust: 100%;
+}
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font: 1.0625rem/1.65 system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+a { color: var(--accent); text-underline-offset: 0.15em; }
+a:hover { text-decoration-thickness: 2px; }
+
+img { max-width: 100%; height: auto; border-radius: 6px; }
+
+/* Logo variants: keep the same convention as the old site (#only-light / #only-dark). */
+img[src$="#only-dark"] { display: none; }
+@media (prefers-color-scheme: dark) {
+  img[src$="#only-dark"] { display: inline-block; }
+  img[src$="#only-light"] { display: none; }
+}
+
+.skip {
+  position: absolute; left: -999px; top: 0;
+  background: var(--accent); color: #fff; padding: 0.5rem 1rem; z-index: 20;
+}
+.skip:focus { left: 0; }
+
+/* Top bar */
+.bar {
+  position: sticky; top: 0; z-index: 10;
+  background: color-mix(in srgb, var(--bg) 88%, transparent);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--line);
+}
+.bar-inner {
+  max-width: var(--measure); margin: 0 auto; padding: 0.6rem 1.25rem;
+  display: flex; align-items: center; justify-content: space-between; gap: 1rem;
+}
+.brand img { display: block; height: 2rem; width: auto; border-radius: 0; }
+nav { display: flex; gap: 1.1rem; overflow-x: auto; white-space: nowrap; scrollbar-width: none; }
+nav::-webkit-scrollbar { display: none; }
+nav a { color: var(--text); text-decoration: none; font-size: 0.95rem; padding: 0.25rem 0; border-bottom: 2px solid transparent; }
+nav a:hover, nav a:focus-visible { border-bottom-color: var(--accent); }
+
+/* Layout */
+.wrap { max-width: var(--measure); margin: 0 auto; padding: 0 1.25rem; }
+section { padding: 3.25rem 0 3rem; }
+main > section:nth-of-type(even) { background: var(--band); }
+section.hero { padding-top: 3.5rem; }
+h1 { font-size: clamp(1.6rem, 4.6vw, 2.3rem); line-height: 1.2; margin: 0 0 1rem; letter-spacing: 0.03em; text-transform: uppercase; }
+h2 { font-size: 1.3rem; margin: 0 0 1.5rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--accent); }
+h3 { font-size: 1.1rem; margin: 2rem 0 0.5rem; }
+blockquote {
+  margin: 1.5rem 0; padding: 0.25rem 0 0.25rem 1rem;
+  border-left: 3px solid var(--accent); color: var(--muted);
+}
+hr { border: 0; border-top: 1px solid var(--line); margin: 2rem 0; }
+
+/* Keep running text at a readable line length inside the wider page */
+main p, main li, main blockquote { max-width: 52rem; }
+
+/* Logo rows (add {: .logos } under a paragraph of images) */
+p.logos { display: flex; flex-wrap: wrap; align-items: center; gap: 1rem 1.5rem; margin: 1rem 0 1.5rem; }
+p.logos img { height: 3rem; width: auto; border-radius: 0; }
+.center { text-align: center; margin-left: auto; margin-right: auto; }
+p.logos.clubs { justify-content: center; }
+p.logos.clubs img { background: var(--tile); padding: 0.5rem 0.9rem; border-radius: var(--radius); }
+
+/* Partners: everything centered */
+#partners .wrap { text-align: center; }
+#partners p { margin-left: auto; margin-right: auto; }
+#partners p.logos { justify-content: center; }
+
+/* Team */
+.person { display: grid; grid-template-columns: 9rem 1fr; gap: 1.25rem 1.5rem; align-items: start; }
+.person p { margin: 0 0 0.6rem; }
+.person img.portrait { width: 9rem; height: 11rem; object-fit: cover; border-radius: var(--radius); }
+@media (max-width: 34rem) {
+  .person { grid-template-columns: 1fr; }
+  .person img.portrait { width: 7.5rem; height: 9rem; }
+}
+
+/* Tables (CV) */
+table { width: 100%; border-collapse: collapse; font-size: 0.95rem; margin: 1rem 0; display: block; overflow-x: auto; }
+th, td { text-align: left; padding: 0.45rem 0.6rem; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { color: var(--muted); font-weight: 600; }
+
+/* Collapsible blocks: CV, previews, earlier coverage */
+details { margin: 0.75rem 0; }
+summary { cursor: pointer; font-weight: 600; color: var(--accent); }
+summary:hover { text-decoration: underline; }
+details.cv, details.archive {
+  background: var(--bg); border: 1px solid var(--line); border-radius: var(--radius); padding: 0.75rem 1rem;
+}
+
+/* Media */
+.year { margin: 2.25rem 0 0.25rem; color: var(--muted); font-size: 0.95rem; letter-spacing: 0.08em; }
+.entry { padding: 0.9rem 0; border-bottom: 1px solid var(--line); }
+.entry:last-child { border-bottom: 0; }
+.entry-head { display: flex; flex-wrap: wrap; gap: 0.15rem 0.75rem; align-items: baseline; }
+.entry-head time { color: var(--muted); font-size: 0.9rem; font-variant-numeric: tabular-nums; }
+.entry-title { font-weight: 600; color: var(--text); text-decoration-color: var(--line); }
+a.entry-title:hover { color: var(--accent); }
+.entry-meta { margin: 0.1rem 0 0; color: var(--muted); font-size: 0.9rem; }
+.entry-meta a { color: var(--muted); }
+details.preview { margin: 0.4rem 0 0; }
+details.preview summary { font-size: 0.9rem; font-weight: 500; }
+blockquote.excerpt {
+  margin: 0.5rem 0 0; padding: 0.1rem 0 0.1rem 1rem;
+  border-left: 3px solid var(--line); font-style: italic; color: var(--muted); font-size: 0.97rem;
+}
+blockquote.excerpt p { margin: 0.4rem 0; }
+.entry-photos { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 0.6rem 0 0.2rem; }
+.entry-photos p { margin: 0; }
+.entry-photos img { display: block; max-height: 14rem; width: auto; border-radius: 6px; }
+
+/* Recommended lists */
+section#recommended ul { padding-left: 1.2rem; }
+section#recommended li { margin: 0.35rem 0; }
+.note { color: var(--muted); font-size: 0.9rem; }
+
+/* Footer */
+footer { background: var(--band); padding: 2rem 0 3rem; color: var(--muted); font-size: 0.9rem; }
+footer a { color: var(--muted); }
+footer p { margin: 0.35rem 0; }

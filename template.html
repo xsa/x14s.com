@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{title}}</title>
+<meta name="description" content="{{description}}">
+<meta name="author" content="X14S s.c.s.">
+<link rel="canonical" href="{{url}}/">
+<link rel="icon" href="images/x14s-logo-1.png">
+<meta name="color-scheme" content="light dark">
+
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="X14S">
+<meta property="og:title" content="{{title}}">
+<meta property="og:description" content="{{description}}">
+<meta property="og:url" content="{{url}}/">
+<meta property="og:image" content="{{url}}/images/x14s-logo-1.png">
+
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+
+<header class="bar">
+  <div class="bar-inner">
+    <a class="brand" href="#about" aria-label="X14S, back to top">
+      <img src="images/x14s-logo-1.png" alt="X14S">
+    </a>
+    <nav aria-label="Sections">
+{{nav}}
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+{{main}}
+</main>
+
+<footer>
+<div class="wrap">
+{{footer}}
+<p class="updated">Last updated {{updated}}</p>
+</div>
+</footer>
+</body>
+</html>
