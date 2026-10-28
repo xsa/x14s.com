@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.x14s.com/sitemap.xml
