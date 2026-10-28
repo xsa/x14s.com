@@ -73,6 +73,7 @@ img[src$="#only-dark"] { display: none; }
   display: flex; align-items: center; justify-content: space-between; gap: 1rem;
 }
 .brand img { display: block; height: 3.1rem; width: auto; border-radius: 0; }
+@media (min-width: 48rem) { .brand img { height: 3.8rem; } }
 nav { display: flex; gap: 1.1rem; overflow-x: auto; white-space: nowrap; scrollbar-width: none; }
 nav::-webkit-scrollbar { display: none; }
 nav a { color: var(--text); text-decoration: none; font-size: 0.95rem; padding: 0.25rem 0; border-bottom: 2px solid transparent; }
