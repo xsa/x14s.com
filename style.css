@@ -116,6 +116,9 @@ p.logos.clubs img { background: var(--tile); padding: 0.5rem 0.9rem; border-radi
   .person img.portrait { width: 7.5rem; height: 9rem; }
 }
 
+/* Flag icons (see images/flags) */
+img.flag { display: inline-block; height: 1.15em; width: auto; vertical-align: -0.2em; border-radius: 0; }
+
 /* Tables (CV) */
 table { width: 100%; border-collapse: collapse; font-size: 0.95rem; margin: 1rem 0; display: block; overflow-x: auto; }
 th, td { text-align: left; padding: 0.45rem 0.6rem; border-bottom: 1px solid var(--line); vertical-align: top; }
@@ -159,3 +162,10 @@ section#recommended li { margin: 0.35rem 0; }
 footer { background: var(--band); padding: 2rem 0 3rem; color: var(--muted); font-size: 0.9rem; }
 footer a { color: var(--muted); }
 footer p { margin: 0.35rem 0; }
+
+/* CV: one block per club or federation, roles indented underneath */
+.cv h4 { margin: 1.6rem 0 0.2rem; font-size: 1rem; }
+.cv table { display: table; width: calc(100% - 1.25rem); margin: 0.2rem 0 0 1.25rem; border-left: 2px solid var(--line); }
+.cv thead { display: none; }
+.cv td { border-bottom: 0; padding: 0.3rem 0.6rem; }
+.cv td:first-child { width: 9rem; white-space: nowrap; color: var(--muted); font-variant-numeric: tabular-nums; }

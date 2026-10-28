@@ -94,6 +94,21 @@ def inline(text: str) -> str:
     return re.sub(r"^<p>(.*)</p>$", r"\1", out, flags=re.S)
 
 
+FLAG_RE = re.compile("[\U0001F1E6-\U0001F1FF]{2}")
+
+
+def flagify(page: str) -> str:
+    """Show flag emoji as small images, so they also display on Windows."""
+
+    def sub(m):
+        cc = "".join(chr(ord(c) - 0x1F1E6 + 97) for c in m.group(0))
+        if (ROOT / "images" / "flags" / f"{cc}.svg").exists():
+            return f'<img class="flag" src="images/flags/{cc}.svg" alt="{m.group(0)}">'
+        return m.group(0)  # no icon available: keep the emoji
+
+    return FLAG_RE.sub(sub, page)
+
+
 def fix_links(page: str) -> str:
     """Add rel attributes to external links; affiliate links are 'sponsored'."""
 
@@ -262,7 +277,7 @@ def build():
         "{{updated}}": today.isoformat(),
     }.items():
         page = page.replace(key, value)
-    (OUT / "index.html").write_text(fix_links(page), encoding="utf-8")
+    (OUT / "index.html").write_text(fix_links(flagify(page)), encoding="utf-8")
 
     # Static files
     shutil.copy(ROOT / "style.css", OUT / "style.css")

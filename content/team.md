@@ -20,42 +20,74 @@ More than 40 years in field hockey, first as a player and then as a coach, from 
 
 ### Education
 
-- **FIH:** Level 1 Coach, Level 2 Coach (by equivalence), Level 3 Coach in progress (2025). Workshops and masterclasses 2024 to 2026, including Top Coach Masterclasses, Leadership and Mentoring, Game Analysis and Talent Identification.
-- **Hockey Belgium (ARBH/KBHB):** Level 3 Coach (2012).
-- **ADEPS:** Moniteur Sportif Initiateur (2013) and Moniteur Sportif Educateur (2014). [Course catalogue](https://formation-cadres-adeps.cfwb.be/)
+- 🌐 **FIH:** Level 1 Coach, Level 2 Coach (by equivalence), Level 3 Coach in progress (2025). Workshops and masterclasses 2024 to 2026, including Top Coach Masterclasses, Leadership and Mentoring, Game Analysis and Talent Identification.
+- 🇧🇪 **ADEPS:** Moniteur Sportif Educateur (2014) and Moniteur Sportif Initiateur (2013). [Course catalogue](https://formation-cadres-adeps.cfwb.be/)
+- 🇧🇪 **Hockey Belgium (ARBH/KBHB):** Level 3 Coach (2012).
 
 ### Experience
 
-| Period | Club or team | Role |
-|---|---|---|
-| 2023-present | USTS Field Hockey (Switzerland) | Player |
-| 2023-present | Swiss Hockey Federation | Youth coaching, U14 to U16 |
-| 2025-present | USTS Field Hockey | Head Coach, Women's 1 (since Aug 2025). Sport and Technical Director (since Jul 2023) |
-| 2021-2024 | USTS Field Hockey | Head Coach, U12, U15 and U18 |
-| 2017-2020 | Servette HC (Switzerland) | Head Coach, Men's 1. Head Coach, Women's 1 (2015-2017). Assistant Coach, Men's 1 (2016-2017) |
-| 2015-2016 | Belgian Hockey Federation | Head Coach, BeGold District Girls 2002 |
-| 2013-2015 | Royal E. White Star H.C. | Video and Performance Analyst, Men's 1 (outdoor) |
-| 2011-2015 | Belgian Hockey Federation | Assistant Coach, Women's Indoor National Team |
-| 2010-2014 | Royal E. White Star H.C. | Head Coach, Men's 1 (indoor) and Men's 2 (outdoor). Assistant Coach, Men's 1 (2010-2011). Head Coach, U16 Boys (2004-2005) |
-| 2010-2011 | Royal Uccle Sport T.H.C. | Assistant Coach, Women's 1 (indoor) |
-| 2001-2008 | Royal E. White Star H.C. | Player, Men's 1 |
+#### 🇨🇭 USTS Field Hockey
+
+| | |
+|---|---|
+| 2025-present | Head Coach, Women's 1 (since Aug 2025) |
+| 2023-present | Sport and Technical Director (since Jul 2023) |
+| 2023-present | Player |
+| 2021-2024 | Head Coach, U12, U15 and U18 |
+
+#### 🇨🇭 Swiss Hockey Federation
+
+| | |
+|---|---|
+| 2023-present | Youth coaching, U14 to U16 |
+
+#### 🇨🇭 Servette HC
+
+| | |
+|---|---|
+| 2017-2020 | Head Coach, Men's 1 |
+| 2016-2017 | Assistant Coach, Men's 1 |
+| 2015-2017 | Head Coach, Women's 1 |
+
+#### 🇧🇪 Belgian Hockey Federation (ARBH/KBHB)
+
+| | |
+|---|---|
+| 2015-2016 | Head Coach, BeGold District Girls 2002 |
+| 2011-2015 | Assistant Coach, Women's Indoor National Team |
+
+#### 🇧🇪 Royal E. White Star H.C.
+
+| | |
+|---|---|
+| 2013-2015 | Video and Performance Analyst, Men's 1 (outdoor) |
+| 2010-2014 | Head Coach, Men's 1 (indoor) and Men's 2 (outdoor) |
+| 2010-2011 | Assistant Coach, Men's 1 |
+| 2004-2005 | Head Coach, U16 Boys |
+| 2001-2008 | Player, Men's 1 |
+
+#### 🇧🇪 Royal Uccle Sport T.H.C.
+
+| | |
+|---|---|
+| 2010-2011 | Assistant Coach, Women's 1 (indoor) |
 
 ### Honours
 
-- **Coach, Servette HC**
+- 🇨🇭 **Coach, Servette HC**
     - Swiss National League A vice-champion (2018)
     - Swiss National League B women's champion (2017)
     - EuroHockey Club Championship II (2017)
-- **Coach, Belgium women's indoor national team**
-    - EuroHockey Indoor Championship III (2012)
+- 🇧🇪 **Coach, Belgium women's indoor national team**
     - EuroHockey Indoor Championship II, silver (2014)
-- **Player, Royal E. White Star H.C.**
-    - Belgian National 1 Division title
-    - Indoor Honour Division title
+    - EuroHockey Indoor Championship III (2012)
+- 🇧🇪 **Player, Royal E. White Star H.C.**
     - EuroHockey Indoor Club Champions Cup Challenge I (2006)
+    - Belgian Indoor Honour Division titles (2005, 2006)
+    - Belgian National 1 Division title, outdoor (2005)
 
 ### Languages
 
-French (native), English (C1), Spanish (C1), Dutch (A2).
+🇫🇷 French (native) | 🇬🇧 English (C1) | 🇪🇸 Spanish (C1) | 🇳🇱 Dutch (A2)
 
 </details>

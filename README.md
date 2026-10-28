@@ -31,7 +31,7 @@ Paste this at the top of `content/media.md` (newest first):
 Rules of thumb:
 
 - The date must be `YYYY-MM-DD`. Years are grouped automatically.
-- Everything under the `source:` line becomes a collapsed "Preview" (or "Photos" when it only holds images).
+- Under the `source:` line, images are always shown, and the text becomes a collapsed "Preview" displayed as an italic quote.
 - Entries before 2020 are folded into "Earlier coverage". Change `FOLD_BEFORE_YEAR` in `build.py` to move that line.
 - Old MkDocs style entries (`### 2018-06-18: "[TITLE](url)"` and `:flag_ch:` shortcodes) still work, so `docs/media/index.md` from the old repo can be pasted straight into `content/media.md`.
 
@@ -63,6 +63,10 @@ Old addresses keep working: `/media/` and `/team/xs/` forward to the matching pa
 ## Design
 
 Colors, fonts and spacing are in `style.css` (the `:root` block at the top). Light and dark mode follow the visitor's device. Logo files ending in `#only-light` or `#only-dark` show in one mode only, as on the old site.
+
+## Flags
+
+Flag emoji in the markdown files (for example the Swiss flag) are shown as small icons from `images/flags/`. To use another country, copy its SVG there named by country code, for example `se.svg`. Without a matching file the emoji is shown as is.
 
 ## Please check after the first build
 
