@@ -1,8 +1,6 @@
 # Where sport meets technology
 
-We provide services in 🇧🇪 Belgium | 🇫🇷 France | 🇨🇭 Switzerland | ... | 🌐 *Anywhere*, around field and indoor hockey coaching as well as video and performance analysis.
-
-> *"Homines dum docent discunt"* (Humans learn when they teach), Seneca.
+Field and indoor hockey coaching, with video and performance analysis. Remote support, or on site at competitions anywhere.
 
 **Clubs and national associations we have worked with**
 
