@@ -20,8 +20,8 @@ More than 40 years in field hockey, first as a player and then as a coach, from 
 
 ### Education
 
-- 🌐 **FIH:** Level 1 Coach, Level 2 Coach (by equivalence), Level 3 Coach in progress (2025). Workshops and masterclasses 2024 to 2026, including Top Coach Masterclasses, Leadership and Mentoring, Game Analysis and Talent Identification.
-- 🇧🇪 **ADEPS:** Moniteur Sportif Educateur (2014) and Moniteur Sportif Initiateur (2013). [Course catalogue](https://formation-cadres-adeps.cfwb.be/)
+- 🌐 **FIH:** Level 1 Coach, Level 2 Coach (by equivalence), [Level 3 Coach](https://academy.fih.hockey/coach) in progress.
+- 🇧🇪 **ADEPS:** [Moniteur Sportif Educateur](https://formation-cadres-adeps.cfwb.be/vocation-pedagogique/moniteur-sportif-educateur/) (2014) and [Moniteur Sportif Initiateur](https://formation-cadres-adeps.cfwb.be/vocation-pedagogique/moniteur-sportif-initiateur/) (2013).
 - 🇧🇪 **Hockey Belgium (ARBH/KBHB):** Level 3 Coach (2012).
 
 ### Experience
