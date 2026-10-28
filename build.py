@@ -31,7 +31,7 @@ SECTIONS = [
     ("team", "Team"),
     ("media", "Media"),
     ("partners", "Partners"),
-    ("recommended", "Recommended"),
+    ("recommended", "Coach&#8217;s picks"),
 ]
 
 # Media entries older than this year are tucked into a collapsed block.

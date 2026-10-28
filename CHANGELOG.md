@@ -8,6 +8,7 @@ Author: Xavier Santolaria
 - Favicon (SVG, ICO), Apple touch icon, and a 1200x630 link preview image (`images/og-image.png`).
 - Header logo comes as two fixed-colour files (`x14s-logo-light.svg`, `x14s-logo-dark.svg`) chosen by a `<picture>` element, so phones show the right colours. `x14s-logo.svg` stays as the master.
 - Header logo is now an SVG. The old `images/x14s-logo-1.png` is no longer used and can be deleted.
+- Section "Recommended" renamed "Coach's picks" (the `#recommended` link keeps working).
 - Hidden author tag now reads "X14S".
 
 ## 2.1.0 (2026-10-28)
