@@ -6,7 +6,8 @@ Author: Xavier Santolaria
 
 - New logo: X, a green ball carrying the 14 that dissolves into pixels, and S (Black Ops One lettering). Follows light and dark mode.
 - Favicon (SVG, ICO), Apple touch icon, and a 1200x630 link preview image (`images/og-image.png`).
-- Header logo is now `images/x14s-logo.svg`. The old `images/x14s-logo-1.png` is no longer used and can be deleted.
+- Header logo comes as two fixed-colour files (`x14s-logo-light.svg`, `x14s-logo-dark.svg`) switched by the page, so phones show the right colours. `x14s-logo.svg` stays as the master.
+- Header logo is now an SVG. The old `images/x14s-logo-1.png` is no longer used and can be deleted.
 - Hidden author tag now reads "X14S".
 
 ## 2.1.0 (2026-10-28)
