@@ -29,8 +29,10 @@
 <header class="bar">
   <div class="bar-inner">
     <a class="brand" href="#about" aria-label="X14S, back to top">
-      <img src="images/x14s-logo-light.svg#only-light" alt="X14S">
-      <img src="images/x14s-logo-dark.svg#only-dark" alt="X14S">
+      <picture>
+        <source srcset="images/x14s-logo-dark.svg" media="(prefers-color-scheme: dark)">
+        <img src="images/x14s-logo-light.svg" alt="X14S">
+      </picture>
     </a>
     <nav aria-label="Sections">
 {{nav}}
