@@ -7,7 +7,7 @@
 **Xavier Santolaria**<br>
 Founder, X14S
 
-More than 40 years in field hockey, first as a player and then as a coach, from club hockey to national teams in Belgium and Switzerland. The aim is simple: keep developing, mentor the next generation, build strong teams and create memorable moments. Supported by Ritual Hockey since 2016.
+More than 40 years in field hockey, first as a player and then as a coach, from club hockey to national teams in Belgium and Switzerland. The aim is simple: keep developing, mentor the next generation, build strong teams and create memorable moments. Supported by [Ritual Hockey](https://www.ritualhockey.com) since 2016.
 
 > *"Homines dum docent discunt"* (Humans learn when they teach), Seneca.
 
