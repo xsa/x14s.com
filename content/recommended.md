@@ -9,7 +9,7 @@ Some of the links below are affiliate links. X14S may earn a small commission if
 
 What we have been using in training sessions, whatever the age group or level.
 
-- [**Crazy Catch** Wild Child Rebound Net](https://amzn.to/47gV6Wn): random, unpredictable rebounds. Perfect for goalie and field player reflex development.
+- [Crazy Catch Wild Child Rebound Net](https://link.amazon/B0iyRD35o): random, unpredictable rebounds. Perfect for goalie and field player reflex development.
 - [Katchet Training Aid ramp](https://amzn.to/3rO1FPP): works well for deflections, passing and receiving skills, and goalie training.
 
 ### 📚 Readings
