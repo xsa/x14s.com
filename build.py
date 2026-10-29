@@ -22,6 +22,9 @@ CONTENT = ROOT / "content"
 OUT = ROOT / "site"
 
 SITE_URL = "https://www.x14s.com"
+# Visit counts with GoatCounter (free, open source, no cookies). Put your GoatCounter
+# account name here, for example "x14s" for https://x14s.goatcounter.com. Empty = no analytics.
+GOATCOUNTER = "x14s"
 TITLE = "X14S | Where sport meets technology"
 DESCRIPTION = "Field hockey coaching as well as video and performance analysis."
 
@@ -266,6 +269,12 @@ def build():
     today = datetime.date.today()
     footer = md(read_md("footer").replace("{{year}}", str(today.year)))
 
+    analytics = ""
+    if GOATCOUNTER:
+        analytics = (f'<script data-goatcounter="https://{GOATCOUNTER}.goatcounter.com/count" '
+                     'async src="//gc.zgo.at/count.js"></script>')
+        footer += '\n<p>Privacy friendly visit counts (<a href="https://www.goatcounter.com">GoatCounter</a>), no cookies, no personal data.</p>'
+
     page = (ROOT / "template.html").read_text(encoding="utf-8")
     for key, value in {
         "{{title}}": TITLE,
@@ -275,6 +284,7 @@ def build():
         "{{main}}": "\n".join(sections),
         "{{footer}}": footer,
         "{{updated}}": today.isoformat(),
+        "{{analytics}}": analytics,
     }.items():
         page = page.replace(key, value)
     (OUT / "index.html").write_text(fix_links(flagify(page)), encoding="utf-8")

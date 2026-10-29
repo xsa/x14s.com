@@ -4,6 +4,7 @@ Author: Xavier Santolaria
 
 ## 2.2.1 (2026-10-29)
 
+- Optional GoatCounter visit counts: set `GOATCOUNTER` in `build.py` (empty by default, nothing is loaded).
 - Coach's picks: added The Change (Swiss supplement brand) with the 15% discount link.
 
 ## 2.2.0 (2026-10-28)
