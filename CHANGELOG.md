@@ -2,6 +2,10 @@
 
 Author: Xavier Santolaria
 
+## 2.2.1 (2026-10-29)
+
+- Coach's picks: added The Change (Swiss supplement brand) with the 15% discount link.
+
 ## 2.2.0 (2026-10-28)
 
 - New logo: X, a green ball carrying the 14 that dissolves into pixels, and S (Black Ops One lettering). Follows light and dark mode.

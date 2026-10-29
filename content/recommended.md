@@ -1,6 +1,10 @@
 Some of the links below are affiliate links. X14S may earn a small commission if you buy through them, at no extra cost to you.
 {: .note }
 
+### 🇨🇭 The Change
+
+[The Change](https://bethechange.swiss/x14santo) is a Swiss food supplement brand, developed, filled and tested at their own facility in St. Gallen. I have been using their products for years: high quality and great service. Use this [link](https://bethechange.swiss/x14santo) to get **15% off all products**. As they are based in Switzerland, this will mostly suit those living here.
+
 ### 🏑 Training gear
 
 What we have been using in training sessions, whatever the age group or level.
