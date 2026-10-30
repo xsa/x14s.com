@@ -38,6 +38,9 @@ SECTIONS = [
     ("recommended", "Coach&#8217;s picks"),
 ]
 
+# Sections whose "### " groups are shown as cards.
+CARD_SECTIONS = ("services", "recommended")
+
 # Media entries older than this year are tucked into a collapsed block.
 FOLD_BEFORE_YEAR = 2020
 
@@ -244,6 +247,20 @@ def render_media(text: str) -> str:
     return "\n".join(parts)
 
 
+def cardify(html):
+    """Wrap each <h3> group in a card. An <hr> ends the cards; whatever follows stays outside."""
+    tail = ""
+    m = re.search(r"<hr\s*/?>", html)
+    if m:
+        html, tail = html[:m.start()], html[m.end():]
+    chunks = html.split("<h3")
+    intro, groups = chunks[0], chunks[1:]
+    if not groups:
+        return intro + tail
+    cards = "".join(f'<div class="card"><h3{g}</div>\n' for g in groups)
+    return f'{intro}<div class="cards">\n{cards}</div>{tail}'
+
+
 # --------------------------------------------------------------------------
 # Page assembly
 # --------------------------------------------------------------------------
@@ -259,6 +276,8 @@ def build():
             continue
         text = read_md(sid)
         body = render_media(text) if sid == "media" else md(text)
+        if sid in CARD_SECTIONS:
+            body = cardify(body)
         heading = "" if sid == "about" else f"<h2>{label}</h2>\n"
         cls = ' class="hero"' if sid == "about" else ""
         sections.append(

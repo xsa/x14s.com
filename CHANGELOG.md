@@ -4,6 +4,7 @@ Author: Xavier Santolaria
 
 ## 2.3.0 (2026-10-30)
 
+- Cards with a soft shadow for the groups in Services and Coach's picks, and for the profile and CV blocks in Team. Two columns on desktop, one on phones. Add more cards by adding a `###` heading in the markdown file. A `---` line ends the cards, the text after it stays outside.
 - New Services section: coaching and clinics, 1:1 player sessions, video and performance analysis, remote support. No prices, contact through Instagram.
 
 ## 2.2.1 (2026-10-29)

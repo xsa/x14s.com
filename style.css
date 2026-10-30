@@ -7,6 +7,8 @@
   --line: #e3e7eb;
   --card: #f5f7f9;
   --band: #f1f4f6; /* alternate section background */
+  --surface: #ffffff; /* card background */
+  --shadow: 0 1px 2px rgba(20, 30, 40, 0.08), 0 6px 18px rgba(20, 30, 40, 0.08);
   --accent: #1f7a4d;
   --tile: #2b2f36; /* dark tile behind club logos (some of them are white) */
   --radius: 10px;
@@ -21,6 +23,8 @@
     --line: #2a3138;
     --card: #1c2228;
     --band: #1b2126;
+    --surface: #212930;
+    --shadow: 0 1px 2px rgba(0, 0, 0, 0.5), 0 8px 22px rgba(0, 0, 0, 0.35);
     --accent: #5fcf95;
   }
 }
@@ -170,3 +174,16 @@ footer p { margin: 0.35rem 0; }
 .cv thead { display: none; }
 .cv td { border-bottom: 0; padding: 0.3rem 0.6rem; }
 .cv td:first-child { width: 9rem; white-space: nowrap; color: var(--muted); font-variant-numeric: tabular-nums; }
+
+/* Cards: grouped content with a soft shadow */
+.cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(22rem, 1fr)); gap: 1.1rem; margin: 1.25rem 0 0; }
+.card, .person, details.cv, details.archive {
+  background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow);
+}
+.card { padding: 1.1rem 1.35rem 1.2rem; }
+.card h3 { margin: 0 0 0.6rem; }
+.card p, .card li { max-width: none; }
+.card p:last-child, .card ul:last-child { margin-bottom: 0; }
+.person { padding: 1.25rem 1.35rem; }
+#recommended .cards { align-items: start; }
+.cards + p { margin-top: 1.75rem; }
