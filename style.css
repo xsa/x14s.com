@@ -202,5 +202,8 @@ footer p { margin: 0.35rem 0; }
   font-size: 0.7rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: var(--accent);
 }
 .stats .tag.coached { background: var(--accent); color: var(--bg); }
-@media (min-width: 44rem) { .stats ul { grid-template-columns: repeat(3, 1fr); } }
+@media (min-width: 44rem) {
+  .stats ul { grid-template-columns: repeat(3, 1fr); }
+  .stats li:last-child:nth-child(3n + 2) { grid-column: span 2; } /* two tiles in the last row: widen the second */
+}
 .stats .tag img.flag { height: 1.2em; margin-left: 0.25em; vertical-align: -0.12em; }

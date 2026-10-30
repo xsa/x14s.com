@@ -4,6 +4,7 @@ Author: Xavier Santolaria
 
 ## 2.3.0 (2026-10-30)
 
+- Career in numbers: "20+ Years coaching" replaces "40+ Years in hockey", new tiles for titles and medals (5 as coach, 4 titles as player).
 - Hockey Belgium: new badge logo (`images/hockey-belgium-logo.svg`, badge only, black stripe shown in white for the dark tile). `images/logo-arbh_kbhb.gif` is no longer used.
 - Clubs worked with: added Royal Uccle Sport (`images/uccle-sport-logo.png`).
 - Coach's picks, Recovery: added the BLACKROLL Recovery Pillow, and a softer emoji for the section.
