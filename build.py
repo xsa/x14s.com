@@ -31,6 +31,7 @@ DESCRIPTION = "Field hockey coaching as well as video and performance analysis."
 # Sections shown on the page, in order: (markdown file name, menu label).
 SECTIONS = [
     ("about", "About"),
+    ("services", "Services"),
     ("team", "Team"),
     ("media", "Media"),
     ("partners", "Partners"),

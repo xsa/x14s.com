@@ -11,6 +11,7 @@ Edit a file in `content/`, commit, push. GitHub Actions rebuilds and publishes.
 |---|---|
 | `content/about.md` | Top of the page (tagline, quote, clubs worked with) |
 | `content/team.md` | Team, with the full CV in a collapsible block |
+| `content/services.md` | Services offered, with the contact line |
 | `content/media.md` | Media archive |
 | `content/partners.md` | Partner logos |
 | `content/recommended.md` | Gear, books, recovery |

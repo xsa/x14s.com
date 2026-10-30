@@ -2,9 +2,13 @@
 
 Author: Xavier Santolaria
 
+## 2.3.0 (2026-10-30)
+
+- New Services section: coaching and clinics, 1:1 player sessions, video and performance analysis, remote support. No prices, contact through Instagram.
+
 ## 2.2.1 (2026-10-29)
 
-- Optional GoatCounter visit counts: set `GOATCOUNTER` in `build.py` (empty by default, nothing is loaded).
+- GoatCounter visit counts (`GOATCOUNTER` in `build.py`, account `x14s`). Cookie free, with a short note in the footer.
 - Coach's picks: added The Change (Swiss supplement brand) with the 15% discount link.
 
 ## 2.2.0 (2026-10-28)
