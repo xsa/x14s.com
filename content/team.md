@@ -11,7 +11,7 @@ More than 40 years in field hockey, first as a player and then as a coach, from 
 
 > *"Homines dum docent discunt"* (Humans learn when they teach), Seneca.
 
-[FIH Academy](https://academy.fih.hockey/profile?id=67ee5df846798d06a0019968) | [FIH coach profile](https://tms.fih.ch/people/3627) | [EHF coach profile](https://eurohockey.altiusrt.com/people/6237) | [Instagram](https://instagram.com/x14santo) | [Wikipedia (FR)](https://fr.wikipedia.org/wiki/Xavier_Santolaria)
+[FIH Academy](https://academy.fih.hockey/profile?id=67ee5df846798d06a0019968) | [FIH coach profile](https://tms.fih.ch/people/3627) | [EHF coach profile](https://eurohockey.altiusrt.com/people/6237) | [Instagram](https://instagram.com/x14santo) | [Wikipedia (FR)](https://fr.wikipedia.org/wiki/Xavier_Santolaria) | [CV (PDF)](Xavier-Santolaria-CV.pdf)
 
 </div>
 
