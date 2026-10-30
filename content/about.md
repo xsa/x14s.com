@@ -4,5 +4,5 @@ Field and indoor hockey coaching, with video and performance analysis. Remote su
 
 **Clubs and national associations we have worked with**
 
-[![Swiss Hockey](images/SwissHockey-logo-white.png)](https://www.swisshockey.org) [![USTS Field Hockey](images/usts-logo.png)](https://www.ustsfieldhockey.ch) [![Servette HC](images/shc-logo.png)](http://www.servettehc.ch) [![ARBH - KBHB](images/logo-arbh_kbhb.gif)](https://hockey.be) [![R.E. White Star HC](images/whitehockey-logo.gif)](https://whitehockey.be)
+[![Swiss Hockey](images/SwissHockey-logo-white.png)](https://www.swisshockey.org) [![USTS Field Hockey](images/usts-logo.png)](https://www.ustsfieldhockey.ch) [![Servette HC](images/shc-logo.png)](http://www.servettehc.ch) [![ARBH - KBHB](images/logo-arbh_kbhb.gif)](https://hockey.be) [![R.E. White Star HC](images/whitehockey-logo.gif)](https://whitehockey.be) [![Royal Uccle Sport](images/uccle-sport-logo.png)](https://ucclesport.be)
 {: .logos .clubs }
