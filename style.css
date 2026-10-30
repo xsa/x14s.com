@@ -188,3 +188,19 @@ footer p { margin: 0.35rem 0; }
 .person { padding: 1.25rem 1.35rem; }
 #recommended .cards { align-items: start; }
 .cards + p { margin-top: 1.75rem; }
+
+/* Career in numbers: a list in content/numbers.md shown as tiles */
+.stats ul { list-style: none; margin: 0.9rem 0 0; padding: 0; display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.9rem; }
+.stats li {
+  max-width: none; margin: 0; padding: 0.9rem 1rem 1rem; line-height: 1.35; font-size: 0.95rem; color: var(--muted);
+  background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow);
+  display: grid; grid-template-rows: auto 1fr auto; row-gap: 0.15rem; justify-items: start; align-items: start;
+}
+.stats li strong { font-size: 2.3rem; line-height: 1.1; color: var(--accent); margin-bottom: 0.2rem; }
+.stats .tag {
+  margin-top: 0.5rem; padding: 0.1rem 0.6rem; border: 1px solid var(--accent); border-radius: 99px;
+  font-size: 0.7rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: var(--accent);
+}
+.stats .tag.coached { background: var(--accent); color: var(--bg); }
+@media (min-width: 44rem) { .stats ul { grid-template-columns: repeat(3, 1fr); } }
+.stats .tag img.flag { height: 1.2em; margin-left: 0.25em; vertical-align: -0.12em; }

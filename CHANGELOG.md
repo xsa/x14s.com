@@ -4,6 +4,7 @@ Author: Xavier Santolaria
 
 ## 2.3.0 (2026-10-30)
 
+- "Career in numbers" tiles at the end of the top section, edited in `content/numbers.md` (one list item per tile, the bold number becomes the big figure). A `Played` or `Coached` tag can be added with `<span class="tag played">Played</span>` or `<span class="tag coached">Coached</span>`, with a flag emoji after the word for the country.
 - CV as a PDF, built on every deploy from `content/team.md` (`/Xavier-Santolaria-CV.pdf`). The GitHub workflow now installs Playwright for it.
 - Readings: added Extreme Ownership, Grit and It's Not How Good You Are, It's How Good You Want to Be. List sorted by title. `link.amazon` links are marked as sponsored.
 - Partners: added The Wall, Vincent Vanasch Academy (`images/partners/the-wall-academy.png`). Use `{: .tall }` after an image for near-square logos.
