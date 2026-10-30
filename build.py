@@ -49,7 +49,7 @@ FOLD_BEFORE_YEAR = 2020
 STATIC_DIRS = ["images", "media/images", "team/images"]
 
 # Links to these hosts get rel="sponsored" (affiliate and partner links).
-SPONSORED_HOSTS = ("amzn.to", "amazon.", "go.nordvpn.net", "bethechange.swiss")
+SPONSORED_HOSTS = ("amzn.to", "amazon.", "link.amazon", "go.nordvpn.net", "bethechange.swiss")
 
 
 # --------------------------------------------------------------------------
@@ -261,6 +261,78 @@ def cardify(html):
     return f'{intro}<div class="cards">\n{cards}</div>{tail}'
 
 
+
+# --------------------------------------------------------------------------
+# CV as a PDF (shareable link: /Xavier-Santolaria-CV.pdf)
+# --------------------------------------------------------------------------
+CV_PDF_NAME = "Xavier-Santolaria-CV.pdf"
+
+CV_CSS = """
+@page { size: A4; margin: 16mm 15mm 18mm; }
+* { box-sizing: border-box; }
+body { font: 10pt/1.45 "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif; color: #1c2024; margin: 0; }
+a { color: #1f7a4d; text-decoration: none; }
+header { display: flex; gap: 6mm; align-items: flex-start; border-bottom: 2px solid #1f7a4d; padding-bottom: 5mm; margin-bottom: 4mm; }
+header img.portrait { width: 30mm; height: 37mm; object-fit: cover; border-radius: 2mm; }
+header p { margin: 0 0 2mm; }
+header strong { font-size: 18pt; letter-spacing: 0.02em; }
+h3 { font-size: 11pt; text-transform: uppercase; letter-spacing: 0.1em; color: #1f7a4d; margin: 6mm 0 2mm; border-bottom: 0.3mm solid #d5dbe0; padding-bottom: 1mm; break-after: avoid; }
+h4 { font-size: 10.5pt; margin: 4mm 0 0.5mm; break-after: avoid; }
+ul { margin: 1mm 0; padding-left: 5mm; }
+li { margin: 0.8mm 0; }
+table { border-collapse: collapse; margin: 0.5mm 0 0 4mm; width: calc(100% - 4mm); table-layout: fixed; border-left: 0.5mm solid #d5dbe0; }
+thead { display: none; }
+td { padding: 0.6mm 3mm; vertical-align: top; }
+td:first-child { white-space: nowrap; width: 30mm; color: #5d6670; }
+table, li, h4 { break-inside: avoid; }
+img.flag { height: 3.2mm; width: auto; vertical-align: -0.5mm; }
+"""
+
+
+def build_cv_pdf(team_html: str, updated: str) -> None:
+    """Render the Team section's CV to a one-file PDF. Skipped when Playwright is not installed."""
+    person = re.search(r'<div class="person">\s*<p>(<img[^>]*>)</p>\s*<div>(.*?)</div>\s*</div>', team_html, re.S)
+    cv = re.search(r'<details class="cv">\s*<summary>.*?</summary>(.*?)</details>', team_html, re.S)
+    if not (person and cv):
+        print("CV PDF skipped: could not find the profile block or the CV in content/team.md")
+        return
+    try:
+        from playwright.sync_api import sync_playwright
+    except ImportError:
+        print("CV PDF skipped: Playwright is not installed (it is installed on GitHub Actions)")
+        return
+
+    doc = (
+        '<!doctype html><html lang="en"><head><meta charset="utf-8"><title>Xavier Santolaria, CV</title>'
+        f"<style>{CV_CSS}</style></head><body>"
+        f"<header>{person.group(1)}<div>{person.group(2)}</div></header>{cv.group(1)}</body></html>"
+    )
+    doc = flagify(doc)
+    tmp = OUT / "_cv.html"
+    tmp.write_text(doc, encoding="utf-8")
+    footer = (
+        '<div style="width:100%;font:7pt Helvetica,Arial,sans-serif;color:#5d6670;padding:0 15mm;'
+        'display:flex;justify-content:space-between"><span>Xavier Santolaria | x14s.com</span>'
+        f'<span>Updated {updated} | page <span class="pageNumber"></span> of <span class="totalPages"></span></span></div>'
+    )
+    try:
+        with sync_playwright() as pw:
+            browser = pw.chromium.launch()
+            page = browser.new_page()
+            page.goto(tmp.resolve().as_uri())
+            page.pdf(
+                path=str(OUT / CV_PDF_NAME), format="A4", print_background=True,
+                display_header_footer=True, header_template="<div></div>", footer_template=footer,
+                margin={"top": "16mm", "bottom": "18mm", "left": "15mm", "right": "15mm"},
+            )
+            browser.close()
+        print(f"Built {OUT / CV_PDF_NAME}")
+    except Exception as exc:  # browser missing, sandbox problems, and so on
+        print(f"CV PDF skipped: {exc}")
+    finally:
+        tmp.unlink(missing_ok=True)
+
+
 # --------------------------------------------------------------------------
 # Page assembly
 # --------------------------------------------------------------------------
@@ -317,6 +389,9 @@ def build():
     for d in STATIC_DIRS:
         if (ROOT / d).is_dir():
             shutil.copytree(ROOT / d, OUT / d, dirs_exist_ok=True)
+
+    team_html = next((s for s in sections if s.startswith('<section id="team"')), "")
+    build_cv_pdf(team_html, today.isoformat())
 
     # Old addresses forward to the matching part of the single page.
     def redirect(path: str, target: str):

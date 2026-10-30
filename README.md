@@ -19,6 +19,10 @@ Edit a file in `content/`, commit, push. GitHub Actions rebuilds and publishes.
 
 Section order and menu labels are in `build.py` (`SECTIONS`). Do not put a top-level title in these files, the page adds it.
 
+## CV as a PDF
+
+Every build also creates `Xavier-Santolaria-CV.pdf` from the profile block and the "Full CV" in `content/team.md`, so the PDF is always in line with the page. Share it as https://www.x14s.com/Xavier-Santolaria-CV.pdf. GitHub Actions has everything needed. To build it on your own computer, run `pip install playwright` and `playwright install chromium` once. Without that the build skips the PDF and says so.
+
 ## Add a media entry
 
 Paste this at the top of `content/media.md` (newest first):
