@@ -4,6 +4,7 @@ Author: Xavier Santolaria
 
 ## 2.3.0 (2026-10-30)
 
+- Coach's picks, Recovery: added the BLACKROLL Recovery Pillow, and a softer emoji for the section.
 - Team: link to the CV as a PDF. README brought up to date.
 - "Career in numbers" tiles at the end of the top section, edited in `content/numbers.md` (one list item per tile, the bold number becomes the big figure). A `Played` or `Coached` tag can be added with `<span class="tag played">Played</span>` or `<span class="tag coached">Coached</span>`, with a flag emoji after the word for the country.
 - CV as a PDF, built on every deploy from `content/team.md` (`/Xavier-Santolaria-CV.pdf`). The GitHub workflow now installs Playwright for it.

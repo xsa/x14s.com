@@ -25,9 +25,10 @@ A non-exhaustive list of books that helped me improve as a trainer, coach and hu
 - [The Manager: Inside the Minds of Football's Leaders](https://amzn.to/4779ksN), by Mike Carson
 - [Small-Sided Games: How to effectively train your players in variable and complex environments](https://amzn.to/3qc7eqU), by Andreu Enrich
 
-### 🛠️ Recovery
+### 🧘 Recovery
 
 Tools and products we use ourselves for recovery.
 
 - [**Compex** Fixx Mini Ultra Compact Massage Gun](https://amzn.to/3qc7iHa): helps with recovery and sore muscles.
 - [**TriggerPoint** Foam Roller](https://amzn.to/3YeXFE6): helps with recovery and sore muscles.
+- [**BLACKROLL®** Recovery Pillow](https://link.amazon/B071d4sGQ): a pillow for better sleep, a big part of recovery.
