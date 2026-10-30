@@ -348,6 +348,8 @@ def build():
             continue
         text = read_md(sid)
         body = render_media(text) if sid == "media" else md(text)
+        if sid == "about" and (CONTENT / "numbers.md").exists():
+            body += "\n" + md(read_md("numbers"))
         if sid in CARD_SECTIONS:
             body = cardify(body)
         heading = "" if sid == "about" else f"<h2>{label}</h2>\n"
