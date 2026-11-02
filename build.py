@@ -49,7 +49,7 @@ RECENT_COUNT = 3
 STATIC_DIRS = ["images", "media/images", "team/images"]
 
 # Links to these hosts get rel="sponsored" (affiliate and partner links).
-SPONSORED_HOSTS = ("amzn.to", "amazon.", "link.amazon", "go.nordvpn.net", "bethechange.swiss")
+SPONSORED_HOSTS = ("amzn.to", "amazon.", "link.amazon", "go.nordvpn.net", "bethechange.swiss", "join.whoop.com")
 
 
 # --------------------------------------------------------------------------
@@ -127,7 +127,7 @@ def fix_links(page: str) -> str:
         rel = "sponsored noopener" if any(h in host for h in SPONSORED_HOSTS) else "noopener"
         return tag[:-1] + f' rel="{rel}">'
 
-    return re.sub(r'<a href="([^"]+)"[^>]*>', sub, page)
+    return re.sub(r'<a\b[^>]*?href="([^"]+)"[^>]*>', sub, page)
 
 
 # --------------------------------------------------------------------------

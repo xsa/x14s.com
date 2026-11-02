@@ -5,6 +5,16 @@ Some of the links below are affiliate links. X14S may earn a small commission if
 
 [The Change](https://bethechange.swiss/x14santo) is a Swiss food supplement brand, developed, filled and tested at their own facility in St. Gallen. I have been using their products for years: high quality and great service. Use this link to get **15% off all products**. As they are based in Switzerland, this will mostly suit those living here.
 
+[Get 15% off at The Change](https://bethechange.swiss/x14santo){: .button }
+
+### 🔋 WHOOP
+
+![WHOOP](images/partners/whoop-logo-black.png#only-light){: .cardlogo } ![WHOOP](images/partners/whoop-logo-white.png#only-dark){: .cardlogo }
+
+I have been wearing a WHOOP since 2020 to track sleep, recovery and strain, and I absolutely love it. Get a free WHOOP and one month free when you join with my link.
+
+[Get a free WHOOP and one month free](https://join.whoop.com/864C7A3A){: .button }
+
 ### 🏑 Training gear
 
 What I have been using in training sessions, whatever the age group or level.
@@ -27,7 +37,7 @@ A non-exhaustive list of books that helped me improve as a trainer, coach and hu
 
 ### 🧘 Recovery
 
-Tools and products I use ourselves for recovery.
+Tools and products I use myself for recovery.
 
 - [**Compex** Fixx Mini Ultra Compact Massage Gun](https://amzn.to/3qc7iHa): helps with recovery and sore muscles.
 - [**TriggerPoint** Foam Roller](https://amzn.to/3YeXFE6): helps with recovery and sore muscles.

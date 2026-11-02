@@ -222,3 +222,23 @@ a.button {
   background: var(--accent); color: var(--bg); border: 1px solid var(--accent); box-shadow: var(--shadow);
 }
 a.button:hover { filter: brightness(1.08); text-decoration: none; color: var(--bg); }
+
+/* Cards that carry a referral button stand out, and a lone last card spans the full row */
+.card:has(a.button) { border-top: 3px solid var(--accent); }
+.card img.cardlogo { display: block; height: 2rem; width: auto; margin: 0.2rem 0 0.9rem; border-radius: 0; }
+.card p:has(> a.button) { margin-top: 1rem; }
+.cards > .card:last-child:nth-child(odd) { grid-column: 1 / -1; }
+.card img.cardlogo[src$="#only-dark"] { display: none; }
+@media (prefers-color-scheme: dark) {
+  .card img.cardlogo[src$="#only-dark"] { display: block; }
+  .card img.cardlogo[src$="#only-light"] { display: none; }
+}
+
+/* Coach's picks on wide screens: Readings is tall, so it spans two rows and
+   Recovery sits right under Training gear (card order: The Change, WHOOP, Training gear, Readings, Recovery). */
+@media (min-width: 48rem) {
+  #recommended .cards { grid-template-columns: 1fr 1fr; grid-template-rows: auto auto 1fr; align-items: start; }
+  #recommended .cards > .card:nth-child(3) { grid-column: 1; grid-row: 2; }
+  #recommended .cards > .card:nth-child(4) { grid-column: 2; grid-row: 2 / span 2; }
+  #recommended .cards > .card:nth-child(5) { grid-column: 1; grid-row: 3; }
+}
