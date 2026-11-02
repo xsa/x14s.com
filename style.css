@@ -215,3 +215,10 @@ footer p { margin: 0.35rem 0; }
   .stats li:last-child:nth-child(3n + 2) { grid-column: span 2; } /* two tiles in the last row: widen the second */
 }
 .stats .tag img.flag { height: 1.2em; margin-left: 0.25em; vertical-align: -0.12em; }
+
+/* Call-to-action button */
+a.button {
+  display: inline-block; padding: 0.6rem 1.25rem; border-radius: 99px; font-weight: 600; text-decoration: none;
+  background: var(--accent); color: var(--bg); border: 1px solid var(--accent); box-shadow: var(--shadow);
+}
+a.button:hover { filter: brightness(1.08); text-decoration: none; color: var(--bg); }
