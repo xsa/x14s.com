@@ -41,8 +41,8 @@ SECTIONS = [
 # Sections whose "### " groups are shown as cards.
 CARD_SECTIONS = ("services", "recommended")
 
-# Media entries older than this year are tucked into a collapsed block.
-FOLD_BEFORE_YEAR = 2020
+# The newest media entries shown as cards. All older ones go into the collapsed "Older coverage" block.
+RECENT_COUNT = 3
 
 # Folders copied as they are. Same layout as the old site, so every image URL
 # that already exists (including ones pasted into old articles) keeps working.
@@ -187,7 +187,13 @@ def parse_media(text: str):
     return "\n".join(intro).strip(), years
 
 
+def nice_date(iso: str) -> str:
+    y, m, d = (int(x) for x in iso.split("-"))
+    return f"{d} {datetime.date(y, m, d).strftime('%b')} {y}"
+
+
 def entry_html(e, collapse: bool = True) -> str:
+    """One media entry as a card: date, title, source, photos, then the preview as an italic quote."""
     meta, body = "", []
     for line in e["body"]:
         m = re.match(r"^source:\s*(.*)$", line.strip(), flags=re.I)
@@ -204,8 +210,9 @@ def entry_html(e, collapse: bool = True) -> str:
         title_html = f'<span class="entry-title">{title}</span>'
 
     out = [
-        '<article class="entry">',
-        f'<div class="entry-head"><time datetime="{e["date"]}">{e["date"]}</time> {title_html}</div>',
+        '<article class="entry mcard">',
+        f'<time datetime="{e["date"]}">{nice_date(e["date"])}</time>',
+        f'<h4 class="entry-head">{title_html}</h4>',
     ]
     if meta:
         out.append(f'<p class="entry-meta">{inline(meta)}</p>')
@@ -214,7 +221,7 @@ def entry_html(e, collapse: bool = True) -> str:
         text_md = IMAGE_ONLY_RE.sub("", body_md).strip()
         if images:  # photos are always visible
             out.append('<div class="entry-photos">' + md("\n\n".join(images)) + "</div>")
-        if text_md:  # excerpt text is styled as a quote, collapsed for recent entries
+        if text_md:  # excerpt text is styled as a quote, collapsed for the newest entries
             quote = f'<blockquote class="excerpt">{md(text_md)}</blockquote>'
             out.append(
                 f'<details class="preview"><summary>Preview</summary>{quote}</details>'
@@ -227,22 +234,17 @@ def entry_html(e, collapse: bool = True) -> str:
 
 def render_media(text: str) -> str:
     intro, years = parse_media(text)
+    entries = sorted((e for es in years.values() for e in es), key=lambda e: e["date"], reverse=True)
+    recent, older = entries[:RECENT_COUNT], entries[RECENT_COUNT:]
     parts = [md(intro)] if intro else []
-    recent = [(y, es) for y, es in years.items() if int(y) >= FOLD_BEFORE_YEAR]
-    older = [(y, es) for y, es in years.items() if int(y) < FOLD_BEFORE_YEAR]
-
-    def block(items, collapse=True):
-        return "\n".join(
-            f'<h3 class="year">{y}</h3>\n' + "\n".join(entry_html(e, collapse) for e in es)
-            for y, es in items
-        )
-
-    parts.append(block(recent))
+    if recent:
+        cards = "\n".join(entry_html(e, collapse=True) for e in recent)
+        parts.append(f'<div class="media-grid recent">\n{cards}\n</div>')
     if older:
-        lo, hi = min(y for y, _ in older), max(y for y, _ in older)
+        cards = "\n".join(entry_html(e, collapse=False) for e in older)
         parts.append(
-            f'<details class="archive"><summary>Earlier coverage, {lo} to {hi}</summary>'
-            f"{block(older, collapse=False)}</details>"
+            f'<details class="archive"><summary>Older coverage</summary>'
+            f'<div class="media-grid older">\n{cards}\n</div></details>'
         )
     return "\n".join(parts)
 

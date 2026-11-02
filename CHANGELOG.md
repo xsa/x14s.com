@@ -2,6 +2,10 @@
 
 Author: Xavier Santolaria
 
+## 2.4.0 (2026-11-02)
+
+- Media: entries are now cards (date, title, source, photos, preview). The year headings are gone. The newest 3 are shown, the rest sit in a collapsed "Older coverage" block, in two cards per row so titles and previews are not cut. `RECENT_COUNT` in `build.py` sets how many are shown. `content/media.md` is unchanged.
+
 ## 2.3.0 (2026-10-30)
 
 - Career in numbers: "20+ Years coaching" replaces "40+ Years in hockey", new tiles for titles and medals (5 as coach, 4 titles as player).

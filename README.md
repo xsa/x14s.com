@@ -44,9 +44,9 @@ Paste this at the top of `content/media.md` (newest first):
 
 Rules of thumb:
 
-- The date must be `YYYY-MM-DD`. Years are grouped automatically.
+- The date must be `YYYY-MM-DD`. Entries are sorted by date, newest first.
 - Under the `source:` line, images are always shown, and the text becomes a collapsed "Preview" displayed as an italic quote.
-- Entries before 2020 are folded into "Earlier coverage". Change `FOLD_BEFORE_YEAR` in `build.py` to move that line.
+- The newest 3 entries are shown as cards, all the others sit in a collapsed "Older coverage" block, also as cards. Change `RECENT_COUNT` in `build.py` to show more or fewer.
 - Old MkDocs style entries (`### 2018-06-18: "[TITLE](url)"` and `:flag_ch:` shortcodes) still work.
 
 ## Preview on your computer
