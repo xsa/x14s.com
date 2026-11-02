@@ -4,6 +4,7 @@ Author: Xavier Santolaria
 
 ## 2.4.0 (2026-11-02)
 
+- Partners: added Fastplay (`images/partners/fastplay.png`, and `fastplay-dark.png` with a lighter tagline for dark mode, both with transparent backgrounds).
 - Media: entries are now cards (date, title, source, photos, preview). The year headings are gone. The newest 3 are shown, the rest sit in a collapsed "Older coverage" block, in two cards per row so titles and previews are not cut. `RECENT_COUNT` in `build.py` sets how many are shown. `content/media.md` is unchanged.
 
 ## 2.3.0 (2026-10-30)
