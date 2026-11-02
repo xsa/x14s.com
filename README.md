@@ -81,6 +81,8 @@ Flag emoji in the markdown files are shown as small icons from `images/flags/` (
 
 GoatCounter (free, open source, no cookies). The account name is set in `build.py` (`GOATCOUNTER`). Stats are at https://x14s.goatcounter.com. Set it to an empty string to switch it off, and the footer note disappears with it.
 
+Clicks on the Instagram, affiliate (Amazon, The Change, WHOOP, NordVPN) and CV PDF links are counted as events and show up in the dashboard as `click-instagram`, `click-whoop` and so on. The list is `CLICK_EVENTS` in `build.py`. They are added automatically, so nothing changes in the markdown.
+
 ## Affiliate links
 
 Links to the hosts listed in `SPONSORED_HOSTS` in `build.py` are marked `rel="sponsored"` automatically. Add a host there when you add a new affiliate network.

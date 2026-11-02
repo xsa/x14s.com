@@ -116,16 +116,34 @@ def flagify(page: str) -> str:
     return FLAG_RE.sub(sub, page)
 
 
+# Clicks on these links are counted as GoatCounter events (host fragment -> event name).
+CLICK_EVENTS = {
+    "instagram.com": "instagram",
+    "go.nordvpn.net": "nordvpn",
+    "bethechange.swiss": "the-change",
+    "join.whoop.com": "whoop",
+    "amzn.to": "amazon",
+    "amazon.": "amazon",
+    "link.amazon": "amazon",
+    "Xavier-Santolaria-CV.pdf": "cv-pdf",
+}
+
+
 def fix_links(page: str) -> str:
-    """Add rel attributes to external links; affiliate links are 'sponsored'."""
+    """Add rel attributes to external links (affiliate links are 'sponsored') and click tracking."""
 
     def sub(m):
         tag, href = m.group(0), m.group(1)
+        extra = ""
+        if GOATCOUNTER:
+            event = next((name for key, name in CLICK_EVENTS.items() if key in href), None)
+            if event:
+                extra = f' data-goatcounter-click="click-{event}" data-goatcounter-title="{event}"'
         if not href.startswith("http") or " rel=" in tag:
-            return tag
+            return tag[:-1] + extra + ">" if extra else tag
         host = re.sub(r"^https?://([^/]+).*", r"\1", href)
         rel = "sponsored noopener" if any(h in host for h in SPONSORED_HOSTS) else "noopener"
-        return tag[:-1] + f' rel="{rel}">'
+        return tag[:-1] + f' rel="{rel}"{extra}>'
 
     return re.sub(r'<a\b[^>]*?href="([^"]+)"[^>]*>', sub, page)
 
