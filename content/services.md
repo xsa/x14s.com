@@ -18,4 +18,4 @@ Reviews of sessions and matches, and regular calls with coaches and staff, where
 
 ---
 
-Interested? [Send me a message on Instagram](https://instagram.com/x14santo) and we will find out what fits your team or your game.
+Interested? [Send me a message on Instagram](https://instagram.com/x14santo) and I will find out what fits your team or your game.

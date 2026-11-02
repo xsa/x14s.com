@@ -7,7 +7,7 @@ Some of the links below are affiliate links. X14S may earn a small commission if
 
 ### 🏑 Training gear
 
-What we have been using in training sessions, whatever the age group or level.
+What I have been using in training sessions, whatever the age group or level.
 
 - [**Crazy Catch** Wild Child Rebound Net](https://amzn.to/47gV6Wn): random, unpredictable rebounds. Perfect for goalie and field player reflex development.
 - [Katchet Training Aid ramp](https://amzn.to/3rO1FPP): works well for deflections, passing and receiving skills, and goalie training.
@@ -27,7 +27,7 @@ A non-exhaustive list of books that helped me improve as a trainer, coach and hu
 
 ### 🧘 Recovery
 
-Tools and products we use ourselves for recovery.
+Tools and products I use ourselves for recovery.
 
 - [**Compex** Fixx Mini Ultra Compact Massage Gun](https://amzn.to/3qc7iHa): helps with recovery and sore muscles.
 - [**TriggerPoint** Foam Roller](https://amzn.to/3YeXFE6): helps with recovery and sore muscles.
