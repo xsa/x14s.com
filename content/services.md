@@ -18,7 +18,7 @@ Reviews of sessions and matches, and regular calls with coaches and staff, where
 
 ### 📘 Drills on LEAD
 
-I create drills for LEAD Field Hockey, the training platform used by coaches and clubs. Request a demo to try the platform out and see them.
+I create drills for **[LEAD](https://www.leadfieldhockey.com)**, the training platform used by coaches and clubs. Request a demo to try the platform out and see them.
 
 [Request a LEAD demo](https://www.leadfieldhockey.com/demo){: .button } [Explore the platform](https://www.leadfieldhockey.com/platform){: .button .secondary }
 
