@@ -242,3 +242,8 @@ a.button:hover { filter: brightness(1.08); text-decoration: none; color: var(--b
   #recommended .cards > .card:nth-child(4) { grid-column: 2; grid-row: 2 / span 2; }
   #recommended .cards > .card:nth-child(5) { grid-column: 1; grid-row: 3; }
 }
+
+/* Second, outlined button next to a primary one */
+a.button.secondary { background: transparent; color: var(--accent); box-shadow: none; margin-left: 0.4rem; }
+a.button.secondary:hover { background: var(--accent); color: var(--bg); }
+@media (max-width: 30rem) { a.button.secondary { margin: 0.5rem 0 0; } }

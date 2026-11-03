@@ -4,6 +4,7 @@ Author: Xavier Santolaria
 
 ## 2.4.0 (2026-11-02)
 
+- Services: new "Drills on LEAD" card with buttons to request a LEAD demo and explore the platform (`{: .button .secondary }` makes an outlined button). Clicks on LEAD links are counted as `click-lead`.
 - Click tracking: clicks on the Instagram, Amazon, The Change, WHOOP, NordVPN and CV PDF links are counted as GoatCounter events (`click-whoop` and so on), set in `CLICK_EVENTS` in `build.py`.
 - Coach's picks: WHOOP has its own card with the logo and a button for the referral link, next to The Change, which also gets a button. Cards with a button have an accent line on top. A lone last card now spans the full row. On wide screens Recovery sits under Training gear while Readings spans two rows (this relies on the card order in `content/recommended.md`). `join.whoop.com` is marked as sponsored.
 - About: "Follow @x14santo on Instagram" button under the headline. Any link can become a button with `{: .button }` after it.

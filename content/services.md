@@ -16,6 +16,12 @@ Match and training analysis done offline, opponent scouting, and short clips wit
 
 Reviews of sessions and matches, and regular calls with coaches and staff, wherever you are.
 
+### 📘 Drills on LEAD
+
+I create drills for LEAD Field Hockey, the training platform used by coaches and clubs. Request a demo to try the platform out and see them.
+
+[Request a LEAD demo](https://www.leadfieldhockey.com/demo){: .button } [Explore the platform](https://www.leadfieldhockey.com/platform){: .button .secondary }
+
 ---
 
 Interested? [Send me a message on Instagram](https://instagram.com/x14santo) and I will find out what fits your team or your game.

@@ -122,6 +122,7 @@ CLICK_EVENTS = {
     "go.nordvpn.net": "nordvpn",
     "bethechange.swiss": "the-change",
     "join.whoop.com": "whoop",
+    "leadfieldhockey.com": "lead",
     "amzn.to": "amazon",
     "amazon.": "amazon",
     "link.amazon": "amazon",
