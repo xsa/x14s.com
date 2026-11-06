@@ -4,6 +4,7 @@ Author: Xavier Santolaria
 
 ## 2.4.0 (2026-11-02)
 
+- Coach's picks, Training gear: added MyVA (MyVideoAnalyser), the analysis software I use. It is a plain link, not an affiliate link. Clicks are counted as `click-myva`.
 - Coach's picks: product photos for the Crazy Catch Wild Child Rebound Net and the Katchet Training Aid ramp (`images/products/`), and "Katchet" in bold like the other brands. Add `{: .thumb }` after an image inside a list entry to get the same layout for other products.
 - Services: new "Drills on LEAD" card with buttons to request a LEAD demo and explore the platform (`{: .button .secondary }` makes an outlined button). Clicks on LEAD links are counted as `click-lead`.
 - Click tracking: clicks on the Instagram, Amazon, The Change, WHOOP, NordVPN and CV PDF links are counted as GoatCounter events (`click-whoop` and so on), set in `CLICK_EVENTS` in `build.py`.

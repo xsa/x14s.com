@@ -123,6 +123,7 @@ CLICK_EVENTS = {
     "bethechange.swiss": "the-change",
     "join.whoop.com": "whoop",
     "leadfieldhockey.com": "lead",
+    "my-teamperformance.com": "myva",
     "amzn.to": "amazon",
     "amazon.": "amazon",
     "link.amazon": "amazon",
