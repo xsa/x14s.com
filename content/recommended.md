@@ -19,8 +19,8 @@ I have been wearing a WHOOP since 2020 to track sleep, recovery and strain, and 
 
 What I have been using in training sessions, whatever the age group or level.
 
-- [**Crazy Catch** Wild Child Rebound Net](https://amzn.to/47gV6Wn): random, unpredictable rebounds. Perfect for goalie and field player reflex development.
-- [Katchet Training Aid ramp](https://amzn.to/3rO1FPP): works well for deflections, passing and receiving skills, and goalie training.
+- [![Crazy Catch Wild Child Rebound Net, red frame with black netting](images/products/crazy-catch-wild-child.jpg){: .thumb }](https://amzn.to/47gV6Wn) [**Crazy Catch** Wild Child Rebound Net](https://amzn.to/47gV6Wn): random, unpredictable rebounds. Perfect for goalie and field player reflex development.
+- [![Katchet Training Aid ramp, orange rebound ramp](images/products/katchet-training-aid.jpg){: .thumb }](https://amzn.to/3rO1FPP) [**Katchet** Training Aid ramp](https://amzn.to/3rO1FPP): works well for deflections, passing and receiving skills, and goalie training.
 
 ### 📚 Readings
 

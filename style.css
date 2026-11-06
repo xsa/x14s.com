@@ -247,3 +247,8 @@ a.button:hover { filter: brightness(1.08); text-decoration: none; color: var(--b
 a.button.secondary { background: transparent; color: var(--accent); box-shadow: none; margin-left: 0.4rem; }
 a.button.secondary:hover { background: var(--accent); color: var(--bg); }
 @media (max-width: 30rem) { a.button.secondary { margin: 0.5rem 0 0; } }
+
+/* Product photo next to a list entry (add {: .thumb } after the image) */
+li:has(img.thumb) { list-style: none; margin-left: -1.2rem; display: flow-root; }
+img.thumb { float: left; width: 7rem; height: auto; margin: 0.15rem 1rem 0.4rem 0; border: 1px solid var(--line); border-radius: var(--radius); background: #fff; }
+@media (max-width: 30rem) { img.thumb { width: 5rem; margin-right: 0.8rem; } }
