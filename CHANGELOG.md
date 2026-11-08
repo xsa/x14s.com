@@ -4,11 +4,12 @@ Author: Xavier Santolaria
 
 ## 2.4.0 (2026-11-02)
 
+- Coach's picks, Training gear: added the Eartec UltraLITE-HD Wireless headsets (affiliate link, photo in `images/products/`).
 - Coach's picks, Training gear: added MyVA (MyVideoAnalyser), the analysis software I use. It is a plain link, not an affiliate link. Clicks are counted as `click-myva`.
 - Coach's picks: product photos for the Crazy Catch Wild Child Rebound Net and the Katchet Training Aid ramp (`images/products/`), and "Katchet" in bold like the other brands. Add `{: .thumb }` after an image inside a list entry to get the same layout for other products.
 - Services: new "Drills on LEAD" card with buttons to request a LEAD demo and explore the platform (`{: .button .secondary }` makes an outlined button). Clicks on LEAD links are counted as `click-lead`.
 - Click tracking: clicks on the Instagram, Amazon, The Change, WHOOP, NordVPN and CV PDF links are counted as GoatCounter events (`click-whoop` and so on), set in `CLICK_EVENTS` in `build.py`.
-- Coach's picks: WHOOP has its own card with the logo and a button for the referral link, next to The Change, which also gets a button. Cards with a button have an accent line on top. A lone last card now spans the full row. On wide screens Recovery sits under Training gear while Readings spans two rows (this relies on the card order in `content/recommended.md`). `join.whoop.com` is marked as sponsored.
+- Coach's picks: WHOOP has its own card with the logo and a button for the referral link, next to The Change, which also gets a button. Cards with a button have an accent line on top. A lone last card now spans the full row. On wide screens Recovery spans both columns under Training gear and Readings (this relies on the card order in `content/recommended.md`). `join.whoop.com` is marked as sponsored.
 - About: "Follow @x14santo on Instagram" button under the headline. Any link can become a button with `{: .button }` after it.
 - Partners: added Fastplay (`images/partners/fastplay.png`, and `fastplay-dark.png` with a lighter tagline for dark mode, both with transparent backgrounds).
 - Media: entries are now cards (date, title, source, photos, preview). The year headings are gone. The newest 3 are shown, the rest sit in a collapsed "Older coverage" block, in two cards per row so titles and previews are not cut. `RECENT_COUNT` in `build.py` sets how many are shown. `content/media.md` is unchanged.

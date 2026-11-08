@@ -21,6 +21,7 @@ What I have been using in training sessions, whatever the age group or level.
 
 - [![Crazy Catch Wild Child Rebound Net, red frame with black netting](images/products/crazy-catch-wild-child.jpg){: .thumb }](https://amzn.to/47gV6Wn) [**Crazy Catch** Wild Child Rebound Net](https://amzn.to/47gV6Wn): random, unpredictable rebounds. Perfect for goalie and field player reflex development.
 - [![Katchet Training Aid ramp, orange rebound ramp](images/products/katchet-training-aid.jpg){: .thumb }](https://amzn.to/3rO1FPP) [**Katchet** Training Aid ramp](https://amzn.to/3rO1FPP): works well for deflections, passing and receiving skills, and goalie training.
+- [![Eartec UltraLITE-HD wireless headsets, double and single ear](images/products/eartec-ultralite-hd.jpg){: .thumb }](https://link.amazon/B01PjCqiH) [**Eartec** UltraLITE-HD Wireless](https://link.amazon/B01PjCqiH): wireless headsets for clear communication between coaching staff during matches and training.
 - [![MyVA video analysis software logo](images/products/myva-logo.png){: .thumb }](https://my-teamperformance.com/en/myva/) [**MyVA** (MyVideoAnalyser)](https://my-teamperformance.com/en/myva/): the software I use to analyse games. Clip key moments, add notes, and build playlists for team sessions.
 
 ### 📚 Readings
